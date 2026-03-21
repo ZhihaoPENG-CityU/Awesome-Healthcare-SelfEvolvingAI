@@ -249,11 +249,11 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&logscale=&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Self-Evolving-AI-for-Agentic-Healthcare&type=date&legend=top-left" />
  </picture>
 </a>
 
