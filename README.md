@@ -58,6 +58,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
 
+- (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
+
+- (*bioRxiv'26*) **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery**
+  [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v2)]
+
+- (*bioRxiv'26*) **STELLA: Towards a Biomedical World Model with Self-Evolving Multimodal Agents**
+  [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.07.01.662467v2)]
+
 - (*arXiv'26*) **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning**
   [[📝 Paper](https://arxiv.org/abs/2601.22964)] [[💻 Code](https://github.com/yf-he/EvoClinician)]
 
@@ -86,9 +95,6 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
-
-- (*arXiv'25*) **STELLA: Self-Evolving LLM Agent for Biomedical Research**
-  [[📝 Paper](https://arxiv.org/abs/2507.02004)] [[💻 Code](https://github.com/zaixizhang/STELLA)]
 
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
@@ -188,11 +194,17 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
   [[📝 Paper](https://arxiv.org/abs/2603.10677)]
 
+- (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
+
+- (*bioRxiv'26*) **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery**
+  [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v2)]
+
+- (*bioRxiv'26*) **STELLA: Towards a Biomedical World Model with Self-Evolving Multimodal Agents**
+  [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.07.01.662467v2)]
+
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
-
-- (*arXiv'25*) **STELLA: Self-Evolving LLM Agent for Biomedical Research**
-  [[📝 Paper](https://arxiv.org/abs/2507.02004)] [[💻 Code](https://github.com/zaixizhang/STELLA)]
 
 ### Clinical Decision-Making and Trial Optimization
 
@@ -214,6 +226,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
+
+- (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
 - (*ICLR'26*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
