@@ -33,6 +33,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2508.07407)] [[💻 Code](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
 
+- (*arXiv'25*) **A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence**
+  [[📝 Paper](https://arxiv.org/abs/2507.21046)]
+
 ---
 
 ## 📝 Self-Evolving AI Papers
@@ -41,7 +44,8 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### 2026
 
-
+- (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
 - (*arXiv'26*) **CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges** [[📝 Paper](https://arxiv.org/pdf/2603.11863)]
 
@@ -65,6 +69,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
+
+- (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2602.18460)]
+
+- (*arXiv'26*) **Agentic AI, Medical Morality, and the Transformation of the Clinic**
+  [[📝 Paper](https://arxiv.org/abs/2602.16553)]
 
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
@@ -104,6 +114,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
 
+- (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
+  [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
+
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
 
@@ -141,6 +154,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 > Some papers appear in multiple categories.
 
 ### Medical Diagnosis and Consultation
+
+- (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
 - (*arXiv'26*) **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning**
   [[📝 Paper](https://arxiv.org/abs/2601.22964)] [[💻 Code](https://github.com/yf-he/EvoClinician)]
@@ -214,6 +230,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
 
+- (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
+  [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
+
 ### Clinical Decision-Making and Trial Optimization
 
 - (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
@@ -230,6 +249,14 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
 
+### Ethics, Safety, and Limits
+
+- (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
+  [[📝 Paper](https://arxiv.org/abs/2602.18460)]
+
+- (*arXiv'26*) **Agentic AI, Medical Morality, and the Transformation of the Clinic**
+  [[📝 Paper](https://arxiv.org/abs/2602.16553)]
+
 ### General Self-Evolving Frameworks and Methods
 
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
@@ -237,6 +264,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
+
+- (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
 - (*ICLR'26*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
