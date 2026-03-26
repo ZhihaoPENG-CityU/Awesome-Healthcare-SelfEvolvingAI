@@ -30,6 +30,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*npj AI'26*) **AI agent in healthcare: applications, evaluations, and future directions**
   [[📝 Paper](https://www.nature.com/articles/s44387-026-00076-4)]
 
+- (*arXiv'26*) **Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**
+  [[📝 Paper](https://arxiv.org/abs/2602.04813)]
+
 - (*PLOS One'25*) **Artificial intelligence agents in healthcare research: A scoping review**
   [[📝 Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182)]
 
@@ -76,6 +79,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
 
+- (*arXiv'26*) **Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
+  [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
+
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
 
@@ -84,6 +90,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
+
+- (*bioRxiv'26*) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
 
 - (*bioRxiv'26*) **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v2)]
@@ -125,6 +134,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
+
+- (*IJISAE'25*) **Self-Evolving LLM Ecosystems for Precision Medicine**
+  [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
 - (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
@@ -207,6 +219,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
 
+- (*arXiv'26*) **Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
+  [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
+
 - (*arXiv'25*) **A Co-evolving Agentic AI System for Medical Imaging Analysis (TissueLab)**
   [[📝 Paper](https://arxiv.org/abs/2509.20279)] [[🖥️ Platform](https://tissuelab.org)]
 
@@ -238,6 +253,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
+- (*bioRxiv'26*) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
+
 - (*bioRxiv'26*) **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v2)]
 
@@ -252,6 +270,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
+
+- (*IJISAE'25*) **Self-Evolving LLM Ecosystems for Precision Medicine**
+  [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
 ### Clinical Decision-Making and Trial Optimization
 
