@@ -33,9 +33,6 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**
   [[📝 Paper](https://arxiv.org/abs/2602.04813)]
 
-<!-- - (*PLOS One'25*) **Artificial intelligence agents in healthcare research: A scoping review** -->
-  <!-- [[📝 Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342182)] -->
-
 - (*arXiv'25*) **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**
   [[📝 Paper](https://arxiv.org/abs/2508.07407)] [[💻 Code](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)]
 
@@ -44,12 +41,14 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ---
 
-
 ## 📝 Self-Evolving AI Papers
 
 > Entries are sorted by year in descending order.
 
 ### 2026
+
+- (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
+  [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
 
 - (*arXiv'26*) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
   [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
@@ -57,20 +56,20 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Reflect to Inform: Boosting Multimodal Reasoning via Information-Gain-Driven Verification**
   [[📝 Paper](https://arxiv.org/pdf/2603.26348v1)]
 
+- (*arXiv'26*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2603.26122)]
+
 - (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
 - (*arXiv'26*) **UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**
   [[📝 Paper](https://arxiv.org/pdf/2603.24533v1)]
 
-- (*arXiv'26*) **When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning**
-  [[📝 Paper](https://arxiv.org/pdf/2603.21289v1)]
-
-- (*arXiv'26*) **Position: Agentic Evolution is the Path to Evolving LLMs**
-  [[📝 Paper](https://arxiv.org/pdf/2602.00359v2)]
-
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
+
+- (*arXiv'26*) **When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning**
+  [[📝 Paper](https://arxiv.org/pdf/2603.21289v1)]
 
 - (*arXiv'26*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.18718)]
@@ -78,22 +77,23 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
-- (*arXiv'26*) **CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges** [[📝 Paper](https://arxiv.org/pdf/2603.11863)]
-
-- (*arXiv'26*) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent** [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
-
-- (*arXiv'26*) **EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery** [[📝 Paper](https://arxiv.org/pdf/2603.08127)]
-
-- (*arXiv'26*) **Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation** [[📝 Paper](https://arxiv.org/abs/2603.08215)]
-
 - (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
 
 - (*arXiv'26*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
 
+- (*arXiv'26*) **CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges**
+  [[📝 Paper](https://arxiv.org/pdf/2603.11863)]
+
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
   [[📝 Paper](https://arxiv.org/abs/2603.10677)]
+
+- (*arXiv'26*) **Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation**
+  [[📝 Paper](https://arxiv.org/abs/2603.08215)]
+
+- (*arXiv'26*) **EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery**
+  [[📝 Paper](https://arxiv.org/pdf/2603.08127)]
 
 - (*arXiv'26*) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2603.07443)]
@@ -101,14 +101,32 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
 
-- (*arXiv'26*) **Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
-  [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
+- (*arXiv'26*) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent**
+  [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
 
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
 
 - (*arXiv'26*) **Agentic AI, Medical Morality, and the Transformation of the Clinic**
   [[📝 Paper](https://arxiv.org/abs/2602.16553)]
+
+- (*arXiv'26*) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
+  [[📝 Paper](https://arxiv.org/abs/2602.01550)]
+
+- (*arXiv'26*) **Position: Agentic Evolution is the Path to Evolving LLMs**
+  [[📝 Paper](https://arxiv.org/pdf/2602.00359v2)]
+
+- (*arXiv'26*) **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning**
+  [[📝 Paper](https://arxiv.org/abs/2601.22964)] [[💻 Code](https://github.com/yf-he/EvoClinician)]
+
+- (*arXiv'26*) **Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
+  [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
+
+- (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
+  [[📝 Paper](https://arxiv.org/abs/2601.00290)]
+
+- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses**
+  [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn/)]
 
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
@@ -121,12 +139,6 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*bioRxiv'26*) **STELLA: Towards a Biomedical World Model with Self-Evolving Multimodal Agents**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.07.01.662467v2)]
-
-- (*arXiv'26*) **EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning**
-  [[📝 Paper](https://arxiv.org/abs/2601.22964)] [[💻 Code](https://github.com/yf-he/EvoClinician)]
-
-- (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
-  [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
 - (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
@@ -147,6 +159,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*bioRxiv'25*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
+
+- (*arXiv'25*) **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**
+  [[📝 Paper](https://arxiv.org/abs/2510.05764)]
 
 - (*arXiv'25*) **A Co-evolving Agentic AI System for Medical Imaging Analysis (TissueLab)**
   [[📝 Paper](https://arxiv.org/abs/2509.20279)] [[🖥️ Platform](https://tissuelab.org)]
@@ -205,6 +220,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 > Some papers appear in multiple categories.
 
 ### Medical Diagnosis and Consultation
+
+- (*arXiv'26*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2603.26122)]
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
@@ -272,6 +290,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### Biomedical and Healthcare Research
 
+- (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
+  [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
+
+- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses**
+  [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn/)]
+
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
   [[📝 Paper](https://arxiv.org/abs/2603.10677)]
 
@@ -292,6 +316,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*bioRxiv'25*) **LabOS: The AI-XR Co-Scientist That Sees and Works With Humans**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.10.16.679418v2)] [[💻 Code](https://github.com/zaixizhang/LabOS)] [[🌐 Project](https://ai4labos.com/)]
+
+- (*arXiv'25*) **RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases**
+  [[📝 Paper](https://arxiv.org/abs/2510.05764)]
 
 - (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
@@ -331,14 +358,8 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
 
-- (*arXiv'26*) **OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence**
-  [[📝 Paper](https://arxiv.org/abs/2603.14771)] [[💻 Code](https://github.com/ZJU-LLMs/Agent-Kernel/tree/main/demo/OpenHospital)]
-
-- (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
-  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
-
-- (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
-  [[📝 Paper](https://arxiv.org/abs/2603.22096)]
+- (*arXiv'26*) **S1-NexusAgent: a Self-Evolving Agent Framework for Multidisciplinary Scientific Research**
+  [[📝 Paper](https://arxiv.org/abs/2602.01550)]
 
 - (*arXiv'26*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.18718)]
