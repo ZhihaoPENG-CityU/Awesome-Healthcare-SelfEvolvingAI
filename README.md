@@ -62,6 +62,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
+- (*arXiv'26*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
+  [[📝 Paper](https://arxiv.org/abs/2603.29709)]
+
 - (*arXiv'26*) **UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**
   [[📝 Paper](https://arxiv.org/pdf/2603.24533v1)]
 
@@ -104,6 +107,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Tool-Genesis: A Task-Driven Tool Creation Benchmark for Self-Evolving Language Agent**
   [[📝 Paper](https://arxiv.org/pdf/2603.05578)]
 
+- (*arXiv'26*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
+  [[📝 Paper](https://arxiv.org/abs/2603.30031)]
+
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
 
@@ -130,6 +136,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
+
+- (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
+  [[📝 Paper](https://arxiv.org/abs/2604.01113)]
 
 - (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
@@ -334,6 +343,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### Clinical Decision-Making and Trial Optimization
 
+- (*arXiv'26*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
+  [[📝 Paper](https://arxiv.org/abs/2603.29709)]
+
 - (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
   [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
@@ -355,6 +367,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
 
 ### Ethics, Safety, and Limits
+
+- (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
+  [[📝 Paper](https://arxiv.org/abs/2604.01113)]
 
 - (*arXiv'26*) **The Doctor Will (Still) See You Now: On the Structural Limits of Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2602.18460)]
@@ -387,6 +402,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
+
+- (*arXiv'26*) **Cognitive Friction: A Decision-Theoretic Framework for Bounded Deliberation in Tool-Using Agents**
+  [[📝 Paper](https://arxiv.org/abs/2603.30031)]
 
 - (*ICLR'26*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
