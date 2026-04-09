@@ -149,8 +149,20 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
+- (*arXiv'26*) **Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent**
+  [[📝 Paper](https://arxiv.org/pdf/2604.07269)]
+
+- (*arXiv'26*) **LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment**
+  [[📝 Paper](https://arxiv.org/pdf/2604.06925)]
+
+- (*arXiv'26*) **SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems**
+  [[📝 Paper](https://arxiv.org/pdf/2604.06375)]
+
 - (*arXiv'26*) **Evidence-Based Actor-Verifier Reasoning for Echocardiographic Agents**
   [[📝 Paper](https://arxiv.org/pdf/2604.06347)]
+
+- (*arXiv'26*) **XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**
+  [[📝 Paper](https://arxiv.org/pdf/2604.02695)]
 
 - (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
@@ -269,6 +281,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
 
+- (*arXiv'26*) **Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent**
+  [[📝 Paper](https://arxiv.org/pdf/2604.07269)]
+
+- (*arXiv'26*) **LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment**
+  [[📝 Paper](https://arxiv.org/pdf/2604.06925)]
+
+- (*arXiv'26*) **SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems**
+  [[📝 Paper](https://arxiv.org/pdf/2604.06375)]
+
 - (*arXiv'26*) **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
@@ -312,6 +333,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **EviAgent: Evidence-Driven Agent for Radiology Report Generation**
   [[📝 Paper](https://arxiv.org/pdf/2603.13956)]
+
+- (*arXiv'26*) **XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**
+  [[📝 Paper](https://arxiv.org/pdf/2604.02695)]
 
 - (*arXiv'26*) **Evidence-Based Actor-Verifier Reasoning for Echocardiographic Agents**
   [[📝 Paper](https://arxiv.org/pdf/2604.06347)]
