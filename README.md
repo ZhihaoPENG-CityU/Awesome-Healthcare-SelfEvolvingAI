@@ -75,6 +75,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
   [[📝 Paper](https://arxiv.org/abs/2604.00261)]
 
+- (*arXiv'26*) **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**
+  [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
+
+- (*arXiv'26*) **From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2604.06262)]
+
+- (*arXiv'26*) **MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation**
+  [[📝 Paper](https://arxiv.org/abs/2604.06269)] [[💻 Code](https://github.com/jiangliu91/MAT-Cell-A-Multi-Agent-Tree-Structured-Reasoning-Framework-for-Batch-Level-Single-Cell-Annotation)]
+
 - (*arXiv'26*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
   [[📝 Paper](https://arxiv.org/abs/2603.29709)]
 
@@ -318,6 +327,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
   [[📝 Paper](https://arxiv.org/abs/2604.00261)]
 
+- (*arXiv'26*) **From Exposure to Internalization: Dual-Stream Calibration for In-context Clinical Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2604.06262)]
+
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
@@ -352,6 +364,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
 
 ### Medical Imaging and Theranostics
+
+- (*arXiv'26*) **BAAI Cardiac Agent: An intelligent multimodal agent for automated reasoning and diagnosis of cardiovascular diseases from cardiac magnetic resonance imaging**
+  [[📝 Paper](https://arxiv.org/abs/2604.04078)] [[💻 Code](https://github.com/plantain-herb/Cardiac-Agent)]
 
 - (*arXiv'26*) **TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics**
   [[📝 Paper](https://arxiv.org/abs/2603.13676)]
