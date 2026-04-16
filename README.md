@@ -140,6 +140,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation**
   [[📝 Paper](https://arxiv.org/abs/2603.08215)]
 
+- (*arXiv'26*) **CAMYLA: Scaling Autonomous Research in Medical Image Segmentation**
+  [[📝 Paper](https://arxiv.org/abs/2604.10696)] [[🌐 Project](https://yifangao112.github.io/camyla-page/)]
+
+- (*arXiv'26*) **IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation**
+  [[📝 Paper](https://arxiv.org/abs/2601.03054)]
+
 - (*arXiv'26*) **EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery**
   [[📝 Paper](https://arxiv.org/pdf/2603.08127)]
 
@@ -444,6 +450,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery (MACRO)**
   [[📝 Paper](https://arxiv.org/abs/2603.05860)]
+
+- (*arXiv'26*) **CAMYLA: Scaling Autonomous Research in Medical Image Segmentation**
+  [[📝 Paper](https://arxiv.org/abs/2604.10696)] [[🌐 Project](https://yifangao112.github.io/camyla-page/)]
+
+- (*arXiv'26*) **IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation**
+  [[📝 Paper](https://arxiv.org/abs/2601.03054)]
 
 - (*arXiv'26*) **Route, Retrieve, Reflect, Repair (R⁴): Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging**
   [[📝 Paper](https://arxiv.org/abs/2601.08192)] [[💻 Code](https://github.com/faiyazabdullah/MultimodalMedAgent)]
