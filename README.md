@@ -42,8 +42,17 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence**
   [[📝 Paper](https://arxiv.org/abs/2507.21046)]
 
-- (*arXiv'25*) **Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning**
-  [[📝 Paper](https://arxiv.org/abs/2511.16333)]
+- (*arXiv'25*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
+  [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
+
+- (*Comput Methods Programs Biomed'23*) **A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends**
+  [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S0169260723001906)]
+
+- (*J. Med. Syst.'16*) **A Systematic Literature Review of Agents Applied in Healthcare**
+  [[📝 Paper](https://doi.org/10.1007/s10916-015-0376-2)] [[Scopus](https://www.scopus.com/pages/publications/84947560681)]
+
+- (*Int. J. Med. Inf.'10*) **Agents applied in health care: A review**
+  [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S138650561000016X)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20129820/)]
 
 ---
 
@@ -313,6 +322,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science**
   [[📝 Paper](https://arxiv.org/abs/2506.04405)]
 
+- (*arXiv'25*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
+  [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
+
 - (*arXiv'25*) **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**
   [[📝 Paper](https://arxiv.org/abs/2503.13205)]
 
@@ -354,10 +366,28 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 ### 2024
 
+- (*arXiv'24*) **Towards Conversational Diagnostic AI (AMIE)**
+  [[📝 Paper](https://www.nature.com/articles/s41586-025-08866-7)]
+
+- (*ACM-BCB'24*) **ClinicalAgent: Clinical Trial Multi-Agent System with LLM-based Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2404.14777)] [[💻 Code](https://github.com/LeoYML/clinical-agent)]
+
 - (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
+- (*arXiv'24*) **Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory**
+  [[📝 Paper](https://arxiv.org/abs/2409.15084)]
+
+- (*arXiv'24*) **Adaptive Reasoning and Acting in Medical Language Agents**
+  [[📝 Paper](https://arxiv.org/abs/2410.10020)]
+
+- (*arXiv'24*) **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2412.16833)]
+
 ### 2023
+
+- (*arXiv'23*) **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
+  [[📝 Paper](https://arxiv.org/abs/2312.10003)]
 
 - (*arXiv'23*) **SELFEVOLVE: A Code Evolution Framework via Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2306.02907)]
@@ -376,6 +406,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
+
+- (*arXiv'24*) **Towards Conversational Diagnostic AI (AMIE)**
+  [[📝 Paper](https://arxiv.org/abs/2401.05654)] [[Nature](https://www.nature.com/articles/s41586-025-08866-7)] [[🌐 Google Research](https://research.google/pubs/towards-conversational-diagnostic-ai/)]
+
+- (*arXiv'24*) **KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2412.16833)]
+
+- (*arXiv'24*) **Adaptive Reasoning and Acting in Medical Language Agents**
+  [[📝 Paper](https://arxiv.org/abs/2410.10020)]
 
 - (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
@@ -583,6 +622,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
   [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
+- (*ACM-BCB'24*) **ClinicalAgent: Clinical Trial Multi-Agent System with LLM-based Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2404.14777)] [[💻 Code](https://github.com/LeoYML/clinical-agent)]
+
 - (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
 
@@ -615,6 +657,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering**
   [[📝 Paper](https://arxiv.org/abs/2506.08584)]
 
+- (*arXiv'24*) **Depression Diagnosis Dialogue Simulation: Self-improving Psychiatrist with Tertiary Memory**
+  [[📝 Paper](https://arxiv.org/abs/2409.15084)]
+
 - (*arXiv'26*) **Perfecting Human–AI Interaction at Clinical Scale: Turning Production Signals into Safer, More Human Conversations**
   [[📝 Paper](https://arxiv.org/abs/2603.29893)]
 
@@ -642,6 +687,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
   [[📝 Paper](https://arxiv.org/pdf/2603.28052)]
+
+- (*arXiv'25*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
+  [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
 
 - (*arXiv'26*) **Autogenesis: A Self-Evolving Agent Protocol**
   [[📝 Paper](https://arxiv.org/abs/2604.15034)]
@@ -705,6 +753,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
   [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
+
+- (*arXiv'23*) **ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**
+  [[📝 Paper](https://arxiv.org/abs/2312.10003)]
 
 - (*arXiv'23*) **SELFEVOLVE: A Code Evolution Framework via Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2306.02907)]
