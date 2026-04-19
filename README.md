@@ -88,13 +88,13 @@ A curated list of papers and open-source resources on **self-evolving AI for age
   [[📝 Paper](https://doi.org/10.1109/TITB.2005.847511)]
 
 - (*IEEE Intell. Syst.'06*) **Secure integration of distributed medical data using mobile agents** (Vieira-Marques et al.)
-  [[📝 Paper](https://doi.org/10.1109/MIS.2006.119)]
+  [[📝 Paper](https://doi.org/10.1109/MIS.2006.120)]
 
 - (*IEEE Intell. Syst.'06*) **Privacy-aware autonomous agents for pervasive healthcare** (Tentori et al.)
-  [[📝 Paper](https://doi.org/10.1109/MIS.2006.117)]
+  [[📝 Paper](https://doi.org/10.1109/MIS.2006.118)]
 
 - (*IEEE Intell. Syst.'06*) **Increasing Human-Organ Transplant Availability: Argumentation-Based Agent Deliberation** (Tolchinsky et al.)
-  [[📝 Paper](https://doi.org/10.1109/MIS.2006.118)]
+  [[📝 Paper](https://doi.org/10.1109/MIS.2006.116)]
 
 - (*Stud. Comput. Intell.'07*) **Assistive Wheelchair Navigation: A Cognitive View** (Cortés et al.; incl. Martínez & Caltagirone)
   [[📝 Paper](https://doi.org/10.1007/978-3-540-47527-9_7)]
