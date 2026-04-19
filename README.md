@@ -17,7 +17,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 ## 📌 Contents
 
 - [Survey Papers](#-survey-papers)
-- [Classic agent-based health care (2002–2008)](#classic-agent-based-health-care-20022008)
+- [Classic agent-based health care (2002–2008)](#classic-agent-based-health-care-2002-2008)
 - [Self-Evolving AI Papers](#-self-evolving-ai-papers)
 - [By Topic](#-by-topic)
 - [Related Repositories](#-related-repositories)
