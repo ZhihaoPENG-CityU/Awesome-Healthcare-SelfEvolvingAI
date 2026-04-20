@@ -20,6 +20,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - [Survey Papers](#-survey-papers)
 - [Classic agent-based health care (2002–2008)](#classic-agent-based-health-care-2002-2008)
 - [Agent-based healthcare systems (2009–2014)](#agent-based-healthcare-systems-2009-2014)
+- [Agent-based healthcare systems (2007–2023)](#agent-based-healthcare-systems-2007-2023)
 - [By Topic](#-by-topic)
 - [Related Repositories](#-related-repositories)
 - [Contributing](#-contributing)
@@ -676,6 +677,78 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 #### Dissertation (2014; in-scope)
 
 - (*UAB PhD Thesis'14*) **Agent based virtual electronic patient record: from intra to inter-institution data integration** (Vieira-Marques) — *institutional repository landing pages vary; search by title in [TDX](https://www.tdx.cat/) or author’s current affiliation.*
+
+### Agent-based healthcare systems (2007–2023)
+
+> **Software-agent / multi-agent systems** for care delivery, clinical decision support, telehealth, or ambient assisted living, with **first publication in 2007–2023** — this block **adds Crossref DOI–verified agent-for-healthcare applications** complementing the year windows above.  
+> **Excluded** (same curation policy): epidemic/biological ABM and platform-only papers without care-oriented agent behavior; see **Curation scope** under [Contributing](#-contributing).
+
+#### 2021
+
+- (*J. Med. Syst.'21*) **Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors** (Manzo et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-021-01770-3)]
+
+- (*IEEE Access'21*) **A Multi-Agent Approach for Personalized Hypertension Risk Prediction** (Abrar et al.)
+  [[📝 Paper](https://doi.org/10.1109/access.2021.3074791)]
+
+#### 2020
+
+- (*J. Med. Syst.'20*) **On the Integration of Agents and Digital Twins in Healthcare** (Croatti et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-020-01623-5)]
+
+- (*J. Med. Syst.'20*) **Agent-oriented Decision Support System for Business Processes Management with Genetic Algorithm Optimization: an Application in Healthcare** (Sulis et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-020-01608-4)]
+
+#### 2019
+
+- (*Simul. Model. Pract. Theory'19*) **Agent-based dynamic optimization for managing the workflow of the patient's pathway** (Ajmi et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.simpat.2019.101935)]
+
+- (*Artif. Intell. Med.'19*) **Personalized conciliation of clinical guidelines for comorbid patients through multi-agent planning** (Fdez-Olivares et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.artmed.2018.11.003)]
+
+#### 2018
+
+- (*Telemat. Inform.'18*) **Developing a multi-agent platform supporting patient hospital stays following a socio-technical approach: Management and governance benefits** (Wautelet et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.tele.2017.12.013)]
+
+#### 2017
+
+- (*J. Med. Syst.'17*) **A Therapy System for Post-Traumatic Stress Disorder Using a Virtual Agent and Virtual Storytelling to Reconstruct Traumatic Memories** (Tielman et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-017-0771-y)]
+
+- (*Simul. Model. Pract. Theory'17*) **A multi-agent system based on reactive decision rules for solving the caregiver routing problem in home health care** (Marcon et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.simpat.2017.03.006)]
+
+#### 2016
+
+- (*J. Biomed. Inform.'16*) **Agents endowed with uncertainty management behaviors to solve a multiskill healthcare task scheduling** (Ben Othman et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.jbi.2016.08.011)]
+
+- (*Decis. Support Syst.'16*) **A multi-agent system to support evidence based medicine and clinical decision making via data sharing and data privacy** (Wimmer et al.)
+  [[📝 Paper](https://doi.org/10.1016/j.dss.2016.05.008)]
+
+- (*J. Syst. Softw.'16*) **A model-driven approach for constructing ambient assisted-living multi-agent systems customized for Parkinson patients** (García-Magariño & Palacios-Navarro)
+  [[📝 Paper](https://doi.org/10.1016/j.jss.2015.09.014)]
+
+#### 2015
+
+- (*IEEE Intell. Syst.'15*) **Engineering ambient intelligence systems using agent technology** (Spanoudakis & Moraitis)
+  [[📝 Paper](https://doi.org/10.1109/mis.2015.3)]
+
+- (*Inf. Syst. Front.'15*) **OptiPres: a distributed mobile agent decision support system for optimal patient drug prescription** (Miller & Mansingh)
+  [[📝 Paper](https://doi.org/10.1007/s10796-015-9595-9)]
+
+- (*J. Med. Syst.'15*) **Using Semantic Components to Represent Dynamics of an Interdisciplinary Healthcare Team in a Multi-Agent Decision Support System** (Wilk et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-015-0375-3)]
+
+- (*J. Med. Syst.'15*) **Development of a Multi-Agent m-Health Application Based on Various Protocols for Chronic Disease Self-Management** (Park et al.)
+  [[📝 Paper](https://doi.org/10.1007/s10916-015-0401-5)]
+
+#### 2008
+
+- (*Birkhäuser WSST book ch.'08*) **SAPHIRE: A Multi-Agent System for Remote Healthcare Monitoring through Computerized Clinical Guidelines** (Laleci et al.) — *chapter in Annicchiarico, Cortés & Urdiales (eds.), Agent Technology and e-Health*
+  [[📝 Paper](https://doi.org/10.1007/978-3-7643-8547-7_3)]
 
 ---
 
