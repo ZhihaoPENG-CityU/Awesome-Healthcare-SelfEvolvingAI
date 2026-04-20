@@ -121,6 +121,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
   [[📝 Paper](https://arxiv.org/abs/2603.10677)]
 
+- (*arXiv'26*) **DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI**
+  [[📝 Paper](https://arxiv.org/abs/2604.15456)]
+
 - (*arXiv'26*) **Skill-Evolving Grounded Reasoning for Free-Text Promptable 3D Medical Image Segmentation**
   [[📝 Paper](https://arxiv.org/abs/2603.08215)]
 
@@ -205,6 +208,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
 
+- (*Expert Syst. Appl.'26*) **CARE: A clinical agentic reasoning engine to enhance real-World diagnostic accuracy via structured medical reasoning**
+  [[📝 Paper](https://doi.org/10.1016/j.eswa.2026.131476)]
+
 - (*arXiv'26*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
 
@@ -237,6 +243,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
   [[📝 Paper](https://arxiv.org/abs/2604.01687)]
+
+- (*arXiv'26*) **AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution**
+  [[📝 Paper](https://arxiv.org/abs/2603.01145)] [[💻 Code](https://github.com/ECNU-ICALK/AutoSkill)]
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
