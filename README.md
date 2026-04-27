@@ -277,7 +277,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 
-- (*arXiv'26*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+- (*arXiv'26*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification** (Zhang et al.)
   [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
 - (*arXiv'26*) **AutoSkill: Experience-Driven Lifelong Learning via Skill Self-Evolution**
@@ -1163,7 +1163,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 
-- (*arXiv'26*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification**
+- (*arXiv'26*) **CoEvoSkills: Self-Evolving Agent Skills via Co-Evolutionary Verification** (Zhang et al.)
   [[📝 Paper](https://arxiv.org/abs/2604.01687)]
 
 - (*arXiv'26*) **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
