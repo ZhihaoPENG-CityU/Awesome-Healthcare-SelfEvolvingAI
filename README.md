@@ -61,6 +61,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
   [[📝 Paper](https://arxiv.org/abs/2604.08988)]
 
+- (*arXiv'26*) **Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters**
+  [[📝 Paper](https://arxiv.org/abs/2604.24710)]
+
 - (*arXiv'26*) **Can Large Language Models Self-Correct in Medical Question Answering? An Exploratory Study**
   [[📝 Paper](https://arxiv.org/abs/2604.00261)]
 
@@ -111,6 +114,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
   [[📝 Paper](https://arxiv.org/abs/2604.13598)]
+
+- (*arXiv'26*) **VeriLLMed: Interactive Visual Debugging of Medical Large Language Models with Knowledge Graphs**
+  [[📝 Paper](https://arxiv.org/abs/2604.23356)]
 
 - (*arXiv'26*) **Agentic AI for Clinical Urgency Mapping and Queue Optimization in High-Volume Outpatient Departments: A Simulation-Based Evaluation**
   [[📝 Paper](https://arxiv.org/abs/2604.00215)]
@@ -184,7 +190,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **ClinicalReTrial: A Self-Evolving AI Agent for Clinical Trial Protocol Optimization**
   [[📝 Paper](https://arxiv.org/abs/2601.00290)]
 
-- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
+- (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*arXiv'26*) **Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent**
@@ -192,6 +198,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment**
   [[📝 Paper](https://arxiv.org/pdf/2604.06925)]
+
+- (*arXiv'26*) **Agentic Clinical Reasoning over Longitudinal Myeloma Records: A Retrospective Evaluation Against Expert Consensus**
+  [[📝 Paper](https://arxiv.org/abs/2604.24473)]
 
 - (*arXiv'26*) **SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems**
   [[📝 Paper](https://arxiv.org/pdf/2604.06375)]
@@ -309,6 +318,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*bioRxiv'26*) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
+
+- (*arXiv'26*) **Agentic AI Platforms for Autonomous Training and Rule Induction of Human-Human and Virus-Human Protein-Protein Interactions**
+  [[📝 Paper](https://arxiv.org/abs/2604.23924)]
 
 - (*bioRxiv'26*) **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v2)]
@@ -840,6 +852,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **LungCURE: Benchmarking Multimodal Real-World Clinical Reasoning for Precision Lung Cancer Diagnosis and Treatment**
   [[📝 Paper](https://arxiv.org/pdf/2604.06925)]
 
+- (*arXiv'26*) **Agentic Clinical Reasoning over Longitudinal Myeloma Records: A Retrospective Evaluation Against Expert Consensus**
+  [[📝 Paper](https://arxiv.org/abs/2604.24473)]
+
 - (*arXiv'26*) **SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems**
   [[📝 Paper](https://arxiv.org/pdf/2604.06375)]
 
@@ -981,7 +996,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
 
-- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
+- (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*arXiv'26*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
@@ -1001,6 +1016,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*bioRxiv'26*) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
+
+- (*arXiv'26*) **Agentic AI Platforms for Autonomous Training and Rule Induction of Human-Human and Virus-Human Protein-Protein Interactions**
+  [[📝 Paper](https://arxiv.org/abs/2604.23924)]
 
 - (*bioRxiv'26*) **OriGene: A Self-Evolving Virtual Disease Biologist Automating Therapeutic Target Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657658v2)]
@@ -1142,7 +1160,7 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
-- (*Nature Biomedical Engineering'26*) **Empowering AI data scientists using a multi-agent LLM framework with self-evolving capabilities for autonomous, tool-aware biomedical data analyses (BioMedAgent)**
+- (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
