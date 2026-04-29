@@ -340,6 +340,54 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
   [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
 
+- (*arXiv'26*) **MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research**
+  [[📝 Paper](https://arxiv.org/abs/2604.18622)]
+
+- (*ACL'26*) **From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning**
+  [[📝 Paper](https://arxiv.org/abs/2604.19516)] [[💻 Code](https://github.com/Wu-beining/MAGEO)]
+
+- (*arXiv'26*) **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression**
+  [[📝 Paper](https://arxiv.org/abs/2604.19572)]
+
+- (*arXiv'26*) **AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories**
+  [[📝 Paper](https://arxiv.org/abs/2604.19606)]
+
+- (*arXiv'26*) **Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**
+  [[📝 Paper](https://arxiv.org/abs/2604.20987)] [[🌐 Project](https://wuxiyang1996.github.io/COSPLAY_page/)] [[💻 Code](https://github.com/wuxiyang1996/cos-play)]
+
+- (*arXiv'26*) **AEL: Agent Evolving Learning for Open-Ended Environments**
+  [[📝 Paper](https://arxiv.org/abs/2604.21725)] [[💻 Code](https://github.com/WujiangXu/AEL)]
+
+- (*arXiv'26*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
+  [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
+
+- (*arXiv'25*) **Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**
+  [[📝 Paper](https://arxiv.org/abs/2506.05542)] [[💻 Code](https://github.com/BioGeMT/Agentomics-ML)]
+
+- (*bioRxiv'26*) **A Unified Agent-Enabled Platform for Drug Repurposing across Molecular, Phenotypic, and Clinical Scales**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.04.19.719462v1)]
+
+- (*medRxiv'26*) **Dissecting clinical reasoning failures in frontier artificial intelligence using 10,000 synthetic cases**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.22.26351488v1)]
+
+- (*medRxiv'25*) **Automation Bias in Large Language Model Assisted Diagnostic Reasoning Among AI-Trained Physicians**
+  [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
+
+- (*arXiv'26*) **From Clinical Intent to Clinical Model: An Autonomous Coding-Agent Framework for Clinician-driven AI Development**
+  [[📝 Paper](https://arxiv.org/abs/2604.17110)] [[💻 Code](https://github.com/zhaozh10/clinical-automata)]
+
+- (*arXiv'26*) **FastOMOP: A Foundational Architecture for Reliable Agentic Real-World Evidence Generation on OMOP CDM Data**
+  [[📝 Paper](https://arxiv.org/abs/2604.24572)] [[💻 Code](https://github.com/fastomop)]
+
+- (*arXiv'26*) **Agentic Clinical Reasoning over Longitudinal Myeloma Records: A Retrospective Evaluation Against Expert Consensus**
+  [[📝 Paper](https://arxiv.org/abs/2604.24473)]
+
+- (*arXiv'26*) **Skill Retrieval Augmentation for Agentic AI**
+  [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
+
+- (*arXiv'26*) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
+  [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
+
 ### 2025
 
 - (*arXiv'25*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
@@ -409,6 +457,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
+
+- (*arXiv'24*) **AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments**
+  [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
 - (*arXiv'24*) **Towards Conversational Diagnostic AI (AMIE)**
   [[📝 Paper](https://www.nature.com/articles/s41586-025-08866-7)]
@@ -843,6 +894,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
+- (*arXiv'24*) **AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments**
+  [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
+
 - (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
 
@@ -988,10 +1042,22 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
+- (*arXiv'24*) **AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments**
+  [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
+
 ### Biomedical and Healthcare Research
 
 - (*AACR Annual Meeting'26*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
   [[🌐 Program](https://www.aacr.org/meeting/aacr-annual-meeting-2026/program/)]
+
+- (*arXiv'25*) **Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**
+  [[📝 Paper](https://arxiv.org/abs/2506.05542)] [[💻 Code](https://github.com/BioGeMT/Agentomics-ML)]
+
+- (*bioRxiv'26*) **A Unified Agent-Enabled Platform for Drug Repurposing across Molecular, Phenotypic, and Clinical Scales**
+  [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.04.19.719462v1)]
+
+- (*arXiv'26*) **From Clinical Intent to Clinical Model: An Autonomous Coding-Agent Framework for Clinician-driven AI Development**
+  [[📝 Paper](https://arxiv.org/abs/2604.17110)] [[💻 Code](https://github.com/zhaozh10/clinical-automata)]
 
 - (*arXiv'26*) **Self-evolving AI agents for protein discovery and directed evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
@@ -1008,11 +1074,20 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **CARIS: Coding-Free and Privacy-Preserving MCP Framework for Clinical Agentic Research Intelligence System**
   [[📝 Paper](https://arxiv.org/abs/2604.12258)]
 
+- (*arXiv'26*) **FastOMOP: A Foundational Architecture for Reliable Agentic Real-World Evidence Generation on OMOP CDM Data**
+  [[📝 Paper](https://arxiv.org/abs/2604.24572)] [[💻 Code](https://github.com/fastomop)]
+
 - (*bioRxiv'26*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
 - (*arXiv'26*) **MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation**
   [[📝 Paper](https://arxiv.org/abs/2604.06269)] [[💻 Code](https://github.com/jiangliu91/MAT-Cell-A-Multi-Agent-Tree-Structured-Reasoning-Framework-for-Batch-Level-Single-Cell-Annotation)]
+
+- (*arXiv'26*) **MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research**
+  [[📝 Paper](https://arxiv.org/abs/2604.18622)]
+
+- (*arXiv'26*) **AblateCell: A Reproduce-then-Ablate Agent for Virtual Cell Repositories**
+  [[📝 Paper](https://arxiv.org/abs/2604.19606)]
 
 - (*bioRxiv'26*) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
@@ -1128,6 +1203,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
 
+- (*medRxiv'26*) **Dissecting clinical reasoning failures in frontier artificial intelligence using 10,000 synthetic cases**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.22.26351488v1)]
+
+- (*medRxiv'25*) **Automation Bias in Large Language Model Assisted Diagnostic Reasoning Among AI-Trained Physicians**
+  [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
+
 ### General Self-Evolving Frameworks and Methods
 
 - (*arXiv'26*) **Meta-Harness: End-to-End Optimization of Model Harnesses**
@@ -1138,6 +1219,21 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Autogenesis: A Self-Evolving Agent Protocol**
   [[📝 Paper](https://arxiv.org/abs/2604.15034)]
+
+- (*arXiv'26*) **A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression**
+  [[📝 Paper](https://arxiv.org/abs/2604.19572)]
+
+- (*ACL'26*) **From Experience to Skill: Multi-Agent Generative Engine Optimization via Reusable Strategy Learning**
+  [[📝 Paper](https://arxiv.org/abs/2604.19516)] [[💻 Code](https://github.com/Wu-beining/MAGEO)]
+
+- (*arXiv'26*) **Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**
+  [[📝 Paper](https://arxiv.org/abs/2604.20987)] [[🌐 Project](https://wuxiyang1996.github.io/COSPLAY_page/)] [[💻 Code](https://github.com/wuxiyang1996/cos-play)]
+
+- (*arXiv'26*) **AEL: Agent Evolving Learning for Open-Ended Environments**
+  [[📝 Paper](https://arxiv.org/abs/2604.21725)] [[💻 Code](https://github.com/WujiangXu/AEL)]
+
+- (*arXiv'26*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
+  [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
 
 - (*arXiv'26*) **AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse**
   [[📝 Paper](https://arxiv.org/abs/2603.18000)] [[💻 Code](https://github.com/zzatpku/AgentFactory)]
@@ -1153,6 +1249,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'24*) **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
+
+- (*arXiv'24*) **AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments**
+  [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
 - (*arXiv'26*) **SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment**
   [[📝 Paper](https://arxiv.org/abs/2604.08988)]
@@ -1177,6 +1276,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **SKILLFOUNDRY: Building Self-Evolving Agent Skill Libraries from Heterogeneous Scientific Resources**
   [[📝 Paper](https://arxiv.org/abs/2604.03964)]
+
+- (*arXiv'26*) **Skill Retrieval Augmentation for Agentic AI**
+  [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
+
+- (*arXiv'26*) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
+  [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
 
 - (*arXiv'26*) **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery**
   [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
