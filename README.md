@@ -253,6 +253,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
   [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
+- (*Nat. Health'26*) **A multi-agent framework combining large language models with medical flowcharts for self-triage**
+  [[📝 Paper](https://www.nature.com/articles/s44360-026-00112-2)] [[💻 Code](https://github.com/digihealthucsd/Multi-agent-self-triage-system)]
+
 - (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
   [[💻 Code](https://github.com/EverMind-AI/EverOS)]
 
@@ -330,6 +333,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
+
+- (*Nat. Med.'26*) **An agentic framework for autonomous scientific discovery in cancer pathology**
+  [[📝 Paper](https://www.nature.com/articles/s41591-026-04357-y)]
+
+- (*arXiv'26*) **EndoGov: A knowledge-governed multi-agent expert system for endometrial cancer risk stratification**
+  [[📝 Paper](https://arxiv.org/abs/2604.23802)]
 
 - (*ICLR'26*) **CoT-Evo: Evolutionary Distillation of CoT for Scientific Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2510.13166)] [[💻 Code](https://github.com/Irving-Feng/CoT-Evo)]
