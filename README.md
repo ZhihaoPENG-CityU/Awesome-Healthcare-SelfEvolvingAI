@@ -43,6 +43,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **MediHive: A Decentralized Agent Collective for Medical Question Answering**
   [[📝 Paper](https://arxiv.org/abs/2603.27150)]
 
+- (*arXiv'26*) **Iterative Multimodal Retrieval-Augmented Generation for Medical Question Answering**
+  [[📝 Paper](https://arxiv.org/abs/2604.27724)]
+
 - (*arXiv'26*) **AIRA_2: Overcoming Bottlenecks in AI Research Agents**
   [[📝 Paper](https://arxiv.org/pdf/2603.26499)]
 
@@ -153,6 +156,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**
   [[📝 Paper](https://arxiv.org/abs/2604.21910)]
+
+- (*arXiv'26*) **Vibe Medicine: Redefining Biomedical Research Through Human-AI Co-Work**
+  [[📝 Paper](https://arxiv.org/abs/2604.23674)]
 
 - (*arXiv'26*) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2603.07443)]
@@ -306,6 +312,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
+
+- (*arXiv'26*) **Detecting Clinical Discrepancies in Health Coaching Agents: A Dual-Stream Memory and Reconciliation Architecture**
+  [[📝 Paper](https://arxiv.org/abs/2604.27045)]
 
 - (*arXiv'26*) **Can LLMs Score Medical Diagnoses and Clinical Reasoning as well as Expert Panels?**
   [[📝 Paper](https://arxiv.org/abs/2604.14892)]
