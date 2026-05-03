@@ -241,6 +241,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis**
   [[📝 Paper](https://arxiv.org/abs/2604.16729)]
 
+- (*arXiv'26*) **LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis**
+  [[📝 Paper](https://arxiv.org/abs/2604.28178)]
+
 - (*arXiv'26*) **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
 
@@ -388,6 +391,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*medRxiv'26*) **Dissecting clinical reasoning failures in frontier artificial intelligence using 10,000 synthetic cases**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.22.26351488v1)]
 
+- (*medRxiv'26*) **HAARF: Healthcare AI Agents Regulatory Framework**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1)] [[💻 Code](https://github.com/Task-force-for-AI-agents-in-Healthcare/haarf)]
+
 - (*medRxiv'25*) **Automation Bias in Large Language Model Assisted Diagnostic Reasoning Among AI-Trained Physicians**
   [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
 
@@ -399,6 +405,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Agentic Clinical Reasoning over Longitudinal Myeloma Records: A Retrospective Evaluation Against Expert Consensus**
   [[📝 Paper](https://arxiv.org/abs/2604.24473)]
+
+- (*arXiv'26*) **Modeling Clinical Concern Trajectories in Language Model Agents**
+  [[📝 Paper](https://arxiv.org/abs/2604.27872)]
 
 - (*arXiv'26*) **Skill Retrieval Augmentation for Agentic AI**
   [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
@@ -434,6 +443,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways**
   [[📝 Paper](https://arxiv.org/abs/2503.13205)]
+
+- (*arXiv'25*) **MedLA: A Logic-Driven Multi-Agent Framework for Complex Medical Reasoning with Large Language Models**
+  [[📝 Paper](https://arxiv.org/abs/2509.23725)]
 
 - (*arXiv'25*) **Integrating Dynamical Systems Learning with Foundational Models: A Meta-Evolutionary AI Framework for Clinical Trials**
   [[📝 Paper](https://arxiv.org/abs/2506.14782)]
@@ -1223,6 +1235,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*medRxiv'26*) **Dissecting clinical reasoning failures in frontier artificial intelligence using 10,000 synthetic cases**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.22.26351488v1)]
+
+- (*medRxiv'26*) **HAARF: Healthcare AI Agents Regulatory Framework**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.09.26350519v1)] [[💻 Code](https://github.com/Task-force-for-AI-agents-in-Healthcare/haarf)]
 
 - (*medRxiv'25*) **Automation Bias in Large Language Model Assisted Diagnostic Reasoning Among AI-Trained Physicians**
   [[📝 Paper](https://www.medrxiv.org/content/10.1101/2025.08.23.25334280v2)]
