@@ -435,6 +435,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'25*) **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
 
+- (*arXiv'25*) **MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**
+  [[📝 Paper](https://arxiv.org/abs/2509.20067)]
+
 - (*arXiv'25*) **MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science**
   [[📝 Paper](https://arxiv.org/abs/2506.04405)]
 
@@ -989,6 +992,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*IEEE ICASSP'25*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
   [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
+
+- (*arXiv'25*) **MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**
+  [[📝 Paper](https://arxiv.org/abs/2509.20067)]
 
 - (*arXiv'25*) **MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow**
   [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
