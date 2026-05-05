@@ -91,6 +91,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
+- (*arXiv'25*) **DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**
+  [[📝 Paper](https://arxiv.org/abs/2505.19630)]
+
+- (*arXiv'25*) **Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**
+  [[📝 Paper](https://arxiv.org/abs/2505.21503)]
+
 - (*arXiv'26*) **Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.27820)]
 
@@ -415,6 +421,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'26*) **ClawTrace: Cost-Aware Tracing for LLM Agent Skill Distillation**
   [[📝 Paper](https://arxiv.org/abs/2604.23853)] [[💻 Code](https://github.com/epsilla-cloud/clawtrace)]
 
+- (*arXiv'26*) **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments**
+  [[📝 Paper](https://arxiv.org/abs/2605.02240)]
+
+- (*medRxiv'26*) **Artificial Intelligence Agents in Mental Health: A Systematic Review and Meta Analysis**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.21.26351365v1)]
+
+- (*arXiv'26*) **An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance**
+  [[📝 Paper](https://arxiv.org/abs/2605.02709)]
+
 ### 2025
 
 - (*arXiv'25*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
@@ -464,6 +479,15 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'25*) **CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering**
   [[📝 Paper](https://arxiv.org/abs/2506.08584)]
+
+- (*arXiv'25*) **DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue**
+  [[📝 Paper](https://arxiv.org/abs/2505.19630)]
+
+- (*arXiv'25*) **MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems**
+  [[📝 Paper](https://arxiv.org/abs/2505.20824)] [[💻 Code](https://github.com/KaiChenNJ/MedSentry)]
+
+- (*arXiv'25*) **Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**
+  [[📝 Paper](https://arxiv.org/abs/2505.21503)]
 
 - (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
   [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
@@ -530,6 +554,12 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**
   [[📝 Paper](https://arxiv.org/abs/2602.04813)]
+
+- (*arXiv'26*) **An Empirical Study of Agent Skills for Healthcare: Practice, Gaps, and Governance**
+  [[📝 Paper](https://arxiv.org/abs/2605.02709)]
+
+- (*medRxiv'26*) **Artificial Intelligence Agents in Mental Health: A Systematic Review and Meta Analysis**
+  [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.21.26351365v1)]
 
 - (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
   [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
@@ -930,6 +960,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 - (*arXiv'24*) **AgentClinic: A Multimodal Agent Benchmark to Evaluate AI in Simulated Clinical Environments**
   [[📝 Paper](https://arxiv.org/abs/2405.07960)] [[🌐 Project](https://agentclinic.github.io)] [[💻 Code](https://github.com/samuelschmidgall/agentclinic)]
 
+- (*arXiv'26*) **PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments**
+  [[📝 Paper](https://arxiv.org/abs/2605.02240)]
+
 - (*arXiv'26*) **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction (CAMP)**
   [[📝 Paper](https://arxiv.org/abs/2604.00085)]
 
@@ -1226,6 +1259,9 @@ A curated list of papers and open-source resources on **self-evolving AI for age
 
 - (*arXiv'26*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
   [[📝 Paper](https://arxiv.org/abs/2604.01113)]
+
+- (*arXiv'25*) **MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems**
+  [[📝 Paper](https://arxiv.org/abs/2505.20824)] [[💻 Code](https://github.com/KaiChenNJ/MedSentry)]
 
 - (*arXiv'26*) **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
   [[📝 Paper](https://arxiv.org/abs/2604.00249)]
