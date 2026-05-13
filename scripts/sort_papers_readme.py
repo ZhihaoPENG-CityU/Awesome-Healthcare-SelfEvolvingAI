@@ -32,10 +32,10 @@ ARXIV_RE = re.compile(
     re.IGNORECASE,
 )
 YEAR_HEADING_RE = re.compile(r"^### (\d{4})\s*$")
-VENUE_TAIL_RE = re.compile(r"\(\*[^']*'(\d{2})\*\)")
+VENUE_TAIL_RE = re.compile(r"\(\*[^']*'(\d{2})(?:_(\d{2}|\?\?))?\*\)")
 BIORXIV_DATE_RE = re.compile(r"/10\.1101/(\d{4})\.(\d{2})\.(\d{2})")
 TITLE_RE = re.compile(r"\*\*(.+?)\*\*")
-VENUE_PREFIX_RE = re.compile(r"^-\s+\(\*([^*]+)\*\)")
+VENUE_PREFIX_RE = re.compile(r"^-\s+\(\*([^']+)\*'")
 INDEX_DIR = ROOT / "indexes"
 
 
@@ -66,6 +66,10 @@ def sort_metric(chunk: str, section_year: int) -> float:
         yy = y % 100
         return yy * 100 + mo + d / 100.0
     fl = chunk.strip().split("\n", 1)[0]
+    mtag = re.search(r"\(\*[^']*'(\d{2})_(\d{2})\*\)", fl)
+    if mtag and mtag.group(2).isdigit():
+        yy, mm = int(mtag.group(1)), int(mtag.group(2))
+        return yy * 100 + mm + 0.001
     if venue_tail_year(fl) is not None:
         return (section_year % 100) * 100 - 1.0
     return (section_year % 100) * 100 - 1.0
