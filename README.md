@@ -61,7 +61,7 @@
 
 ## 📝 Self-Evolving AI Papers (2023–Now)
 
-> **Default order (time):** Within each `###` calendar year, entries are **newest first**, using the numeric order of the first `arxiv.org/abs/` or `arxiv.org/pdf/` id `YYMM.NNNNN` when present (e.g. `2605.*` before `2604.*` before `2603.*`). Entries with a bioRxiv/medRxiv `/10.1101/YYYY.MM.DD` path use that calendar date; bullets without any such id sort at the **end** of that year. Papers whose arXiv id implies another calendar year are grouped under the matching `###` heading. Each bullet starts with a visible tag `(*Venue'YY_MM*)` (two-digit year + month; `??` if unknown).
+> **Default order (time):** Within each `###` calendar year, entries are **newest first**, using the numeric order of the first `arxiv.org/abs/` or `arxiv.org/pdf/` id `YYMM.NNNNN` when present (e.g. `2605.*` before `2604.*` before `2603.*`). Entries with a bioRxiv/medRxiv `/10.1101/YYYY.MM.DD` path use that calendar date; bullets without any such id sort at the **end** of that year. Papers whose arXiv id implies another calendar year are grouped under the matching `###` heading. Venue tags use **`(*Venue'YY_MM*)`** when the month is known from links, otherwise the legacy **`(*Venue'YY*)`** form (no `_MM`).
 >
 > **Other sort orders:** Plain GitHub Markdown has **no** interactive sort controls. Run `python scripts/sort_papers_readme.py --write-indexes` to regenerate companion lists: [`indexes/by-venue.md`](indexes/by-venue.md) and [`indexes/by-title.md`](indexes/by-title.md).
 
@@ -451,43 +451,43 @@
 - (*bioRxiv'26_01*) **Agentomics: An Agentic System that Autonomously Develops Novel State-of-the-art Solutions for Biomedical Machine Learning Tasks**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.01.27.702049v1)]
 
-- (*AACR Annual Meeting'26_??*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
+- (*AACR Annual Meeting'26*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
   [[🌐 Program](https://www.aacr.org/meeting/aacr-annual-meeting-2026/program/)]
 
-- (*CEEM'26_??*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
+- (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
   [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
-- (*Cambridge Open Engage'26_??*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
-- (*Expert Syst. Appl.'26_??*) **CARE: A clinical agentic reasoning engine to enhance real-World diagnostic accuracy via structured medical reasoning**
+- (*Expert Syst. Appl.'26*) **CARE: A clinical agentic reasoning engine to enhance real-World diagnostic accuracy via structured medical reasoning**
   [[📝 Paper](https://doi.org/10.1016/j.eswa.2026.131476)]
 
-- (*GitHub'26_??*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
+- (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
   [[💻 Code](https://github.com/EverMind-AI/EverOS)]
 
-- (*GitHub'26_??*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
+- (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
   [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
 
-- (*Health Inf Sci Syst'26_??*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
+- (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
   [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
 
-- (*ICLR'26_?? Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
+- (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
   [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
 
-- (*Nat. Health'26_??*) **A multi-agent framework combining large language models with medical flowcharts for self-triage**
+- (*Nat. Health'26*) **A multi-agent framework combining large language models with medical flowcharts for self-triage**
   [[📝 Paper](https://www.nature.com/articles/s44360-026-00112-2)] [[💻 Code](https://github.com/digihealthucsd/Multi-agent-self-triage-system)]
 
-- (*Nat. Med.'26_??*) **An agentic framework for autonomous scientific discovery in cancer pathology**
+- (*Nat. Med.'26*) **An agentic framework for autonomous scientific discovery in cancer pathology**
   [[📝 Paper](https://www.nature.com/articles/s41591-026-04357-y)]
 
-- (*Nature Biomedical Engineering'26_??*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
+- (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
-- (*arXiv'26_??*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
+- (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
   [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
 
-- (*npj Digital Medicine'26_??*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
+- (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
 
 - (*bioRxiv'26_07*) **STELLA: Towards a Biomedical World Model with Self-Evolving Multimodal Agents**
@@ -594,19 +594,19 @@
 - (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
   [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
 
-- (*Advanced Science'25_??*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
+- (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
 
-- (*EMNLP'25_?? Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
+- (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
   [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
 
-- (*IEEE ICASSP'25_??*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
+- (*IEEE ICASSP'25*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
   [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
 
-- (*IJISAE'25_??*) **Self-Evolving LLM Ecosystems for Precision Medicine**
+- (*IJISAE'25*) **Self-Evolving LLM Ecosystems for Precision Medicine**
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
-- (*NeurIPS'25_?? Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
+- (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
 
 ### 2024
@@ -632,7 +632,7 @@
 - (*ACM-BCB'24_04*) **ClinicalAgent: Clinical Trial Multi-Agent System with LLM-based Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2404.14777)] [[💻 Code](https://github.com/LeoYML/clinical-agent)]
 
-- (*arXiv'24_??*) **Towards Conversational Diagnostic AI (AMIE)**
+- (*arXiv'24*) **Towards Conversational Diagnostic AI (AMIE)**
   [[📝 Paper](https://www.nature.com/articles/s41586-025-08866-7)]
 
 ### 2023
@@ -648,7 +648,7 @@
 
 ## 📚 Survey Papers
 
-- (*npj AI'26_??*) **AI agent in healthcare: applications, evaluations, and future directions**
+- (*npj AI'26*) **AI agent in healthcare: applications, evaluations, and future directions**
   [[📝 Paper](https://www.nature.com/articles/s44387-026-00076-4)]
 
 - (*arXiv'26_02*) **Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents**
@@ -660,7 +660,7 @@
 - (*medRxiv'26_04*) **Artificial Intelligence Agents in Mental Health: A Systematic Review and Meta Analysis**
   [[📝 Paper](https://www.medrxiv.org/content/10.64898/2026.04.21.26351365v1)]
 
-- (*CEEM'26_??*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
+- (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
   [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
 - (*arXiv'25_08*) **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**
@@ -672,13 +672,13 @@
 - (*arXiv'25_05*) **Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience**
   [[📝 Paper](https://arxiv.org/abs/2505.05515)] [[💻 Code](https://github.com/BioRAILab/Awesome-Neuroscience-Agent-Reasoning)]
 
-- (*Comput Methods Programs Biomed'23_??*) **A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends**
+- (*Comput Methods Programs Biomed'23*) **A Survey on Agents Applications in Healthcare: Opportunities, Challenges and Trends**
   [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S0169260723001906)]
 
-- (*J. Med. Syst.'16_??*) **A Systematic Literature Review of Agents Applied in Healthcare**
+- (*J. Med. Syst.'16*) **A Systematic Literature Review of Agents Applied in Healthcare**
   [[📝 Paper](https://doi.org/10.1007/s10916-015-0376-2)] [[Scopus](https://www.scopus.com/pages/publications/84947560681)]
 
-- (*Int. J. Med. Inf.'10_??*) **Agents applied in health care: A review**
+- (*Int. J. Med. Inf.'10*) **Agents applied in health care: A review**
   [[📝 Paper](https://www.sciencedirect.com/science/article/pii/S138650561000016X)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20129820/)]
 
 ### Classic agent-based health care (2002–2008)
@@ -686,70 +686,70 @@
 > Representative **software-agent / multi-agent** work targeting **clinical information systems, telecare, hospital workflows, guideline enactment, or surveillance**, with **first publication in 2002–2008** (aligned with the literature window in Isern & Sánchez & Moreno, *Int. J. Med. Inf.*, 2010).  
 > **Not listed here (typical reasons):** general agent theory or MAS textbooks without a medical deployment (#1, #6–7, #38–40, #50); AI-in-medicine position pieces or surveys **dated 2009** (#5); agent papers **dated 2009** (#24 HealthAgents journal article, #54 interoperability survey); non-agent-centric bioinformatics reviews (#17); classic **ICMAS 1998** hospital scheduling (#9); incomplete / venue-unclear lines in the source list (#16).
 
-- (*Birkhäuser'03_??*) **Applications of Software Agent Technology in the Health Care Domain** (edited volume, Nealon & Moreno)
+- (*Birkhäuser'03*) **Applications of Software Agent Technology in the Health Care Domain** (edited volume, Nealon & Moreno)
   [[📝 Book](https://link.springer.com/book/10.1007/978-3-0348-7976-7)]
 
-- (*PDCAT'04_??*) **Architecture of Agent-Based Healthcare Intelligent Assistant on Grid Environment** (Singh et al.)
+- (*PDCAT'04*) **Architecture of Agent-Based Healthcare Intelligent Assistant on Grid Environment** (Singh et al.)
   [[📝 Paper](https://doi.org/10.1007/978-3-540-30501-9_15)]
 
-- (*TELECARE'04_??*) **Aingeru: an Innovating System for Tele Assistance of Elderly People** (Tablado et al.)
+- (*TELECARE'04*) **Aingeru: an Innovating System for Tele Assistance of Elderly People** (Tablado et al.)
   [[📝 Paper](https://doi.org/10.5220/0002681100270036)]
 
-- (*Appl. Intell.'04_??*) **UCTx: A Multi-Agent System to Assist a Transplant Coordination Unit** (Cortés et al.)
+- (*Appl. Intell.'04*) **UCTx: A Multi-Agent System to Assist a Transplant Coordination Unit** (Cortés et al.)
   [[📝 Paper](https://doi.org/10.1023/B:APIN.0000011142.91514.57)]
 
-- (*ISMIS'05_??*) **An Intelligent System for Assisting Elderly People** (Tablado et al.)
+- (*ISMIS'05*) **An Intelligent System for Assisting Elderly People** (Tablado et al.)
   [[📝 Paper](https://doi.org/10.1007/11425274_48)]
 
-- (*AI Commun.'05_??*) **Integration of hospital data using agent technologies: A case study** (Cruz-Correia et al.)
+- (*AI Commun.'05*) **Integration of hospital data using agent technologies: A case study** (Cruz-Correia et al.)
   [[📝 Paper](https://content.iospress.com/articles/ai-communications/aic342)]
 
-- (*AI Commun.'05_??*) **Agent-based ambient intelligence for healthcare** (Rodríguez et al.)
+- (*AI Commun.'05*) **Agent-based ambient intelligence for healthcare** (Rodríguez et al.)
   [[📝 Paper](https://content.iospress.com/articles/ai-communications/aic344)]
 
-- (*SGAI'05_??*) **Web-based Medical Teaching using a Multi-Agent System** (Alves et al.)
+- (*SGAI'05*) **Web-based Medical Teaching using a Multi-Agent System** (Alves et al.)
   [[📝 Paper](https://doi.org/10.1007/1-84628-224-1_14)]
 
-- (*IEEE Trans. IT Biomed.'05_??*) **A multiagent system enhancing home-care health services for chronic disease management** (Koutkias et al.)
+- (*IEEE Trans. IT Biomed.'05*) **A multiagent system enhancing home-care health services for chronic disease management** (Koutkias et al.)
   [[📝 Paper](https://doi.org/10.1109/TITB.2005.847511)]
 
-- (*IEEE Intell. Syst.'06_??*) **Secure integration of distributed medical data using mobile agents** (Vieira-Marques et al.)
+- (*IEEE Intell. Syst.'06*) **Secure integration of distributed medical data using mobile agents** (Vieira-Marques et al.)
   [[📝 Paper](https://doi.org/10.1109/MIS.2006.120)]
 
-- (*IEEE Intell. Syst.'06_??*) **Privacy-aware autonomous agents for pervasive healthcare** (Tentori et al.)
+- (*IEEE Intell. Syst.'06*) **Privacy-aware autonomous agents for pervasive healthcare** (Tentori et al.)
   [[📝 Paper](https://doi.org/10.1109/MIS.2006.118)]
 
-- (*IEEE Intell. Syst.'06_??*) **Increasing Human-Organ Transplant Availability: Argumentation-Based Agent Deliberation** (Tolchinsky et al.)
+- (*IEEE Intell. Syst.'06*) **Increasing Human-Organ Transplant Availability: Argumentation-Based Agent Deliberation** (Tolchinsky et al.)
   [[📝 Paper](https://doi.org/10.1109/MIS.2006.116)]
 
-- (*Stud. Comput. Intell.'07_??*) **Assistive Wheelchair Navigation: A Cognitive View** (Cortés et al.; incl. Martínez & Caltagirone)
+- (*Stud. Comput. Intell.'07*) **Assistive Wheelchair Navigation: A Cognitive View** (Cortés et al.; incl. Martínez & Caltagirone)
   [[📝 Paper](https://doi.org/10.1007/978-3-540-47527-9_7)]
 
-- (*CEEMAS'07_??*) **HeCaSe2: A Multi-agent Ontology-Driven Guideline Enactment Engine** (Isern et al.)
+- (*CEEMAS'07*) **HeCaSe2: A Multi-agent Ontology-Driven Guideline Enactment Engine** (Isern et al.)
   [[📝 Paper](https://doi.org/10.1007/978-3-540-75254-7_38)]
 
-- (*KES-AMSTA'07_??*) **Mobile Agents Using Data Mining for Diagnosis Support in Ubiquitous Healthcare** (Mateo et al.)
+- (*KES-AMSTA'07*) **Mobile Agents Using Data Mining for Diagnosis Support in Ubiquitous Healthcare** (Mateo et al.)
   [[📝 Paper](https://doi.org/10.1007/978-3-540-72830-6_83)]
 
-- (*AIME'07_??*) **Adaptive Optimization of Hospital Resource Calendars** (Vermeulen et al.)
+- (*AIME'07*) **Adaptive Optimization of Hospital Resource Calendars** (Vermeulen et al.)
   [[📝 Paper](https://doi.org/10.1007/978-3-540-73599-1_41)]
 
-- (*Int. J. Med. Inf.'07_??*) **Towards patient-related information needs** (Braun et al.)
+- (*Int. J. Med. Inf.'07*) **Towards patient-related information needs** (Braun et al.)
   [[📝 Paper](https://doi.org/10.1016/j.ijmedinf.2006.11.006)]
 
-- (*Artificial Intelligence in Medicine'08_??*) **A cognitive architecture for robot self-consciousness** (Chella et al.)
+- (*Artificial Intelligence in Medicine'08*) **A cognitive architecture for robot self-consciousness** (Chella et al.)
   [[📝 Paper](https://doi.org/10.1016/j.artmed.2008.07.004)]
 
-- (*Int. J. Med. Inf.'08_??*) **Computer-based execution of clinical guidelines: A review** (Isern & Moreno)
+- (*Int. J. Med. Inf.'08*) **Computer-based execution of clinical guidelines: A review** (Isern & Moreno)
   [[📝 Paper](https://doi.org/10.1016/j.ijmedinf.2008.05.010)]
 
-- (*IEEE Intell. Syst.'08_??*) **GerAmI: Improving Healthcare Delivery in Geriatric Residences** (Corchado et al.)
+- (*IEEE Intell. Syst.'08*) **GerAmI: Improving Healthcare Delivery in Geriatric Residences** (Corchado et al.)
   [[📝 Paper](https://doi.org/10.1109/MIS.2008.27)]
 
-- (*Birkhäuser'08_??*) **Agent Technology and e-Health** (edited volume, Annicchiarico, Cortés & Urdiales)
+- (*Birkhäuser'08*) **Agent Technology and e-Health** (edited volume, Annicchiarico, Cortés & Urdiales)
   [[📝 Book](https://link.springer.com/book/10.1007/978-3-7643-8547-7)]
 
-- (*AAMAS Industry'08_??*) **Agent-based patient admission scheduling in hospitals** (Hutzschenreuter et al.)
+- (*AAMAS Industry'08*) **Agent-based patient admission scheduling in hospitals** (Hutzschenreuter et al.)
   [[📝 Paper](https://dl.acm.org/citation.cfm?id=1402804)]
 
 ### Agent-based healthcare systems (2009–2014)
@@ -759,203 +759,203 @@
 
 #### 2014
 
-- (*IJAIT'14_??*) **A multi-agent care system to support independent living** (Kaluža et al.)
+- (*IJAIT'14*) **A multi-agent care system to support independent living** (Kaluža et al.)
   [[📝 Paper](https://doi.org/10.1142/S0218213014400016)]
 
-- (*J. Intell. Inf. Syst.'14_??*) **OBCAS: an agent-based system and ontology for mobile context aware interactions** (Castro Garrido et al.)
+- (*J. Intell. Inf. Syst.'14*) **OBCAS: an agent-based system and ontology for mobile context aware interactions** (Castro Garrido et al.)
   [[📝 Paper](https://doi.org/10.1007/s10844-014-0305-8)]
 
-- (*IJAIT'14_??*) **Abductive agents for human activity monitoring** (Vettier & Garbay)
+- (*IJAIT'14*) **Abductive agents for human activity monitoring** (Vettier & Garbay)
   [[📝 Paper](https://doi.org/10.1142/S0218213014400028)]
 
-- (*IJAIT'14_??*) **Agent-based reasoning in medical planning and diagnosis combining multiple strategies** (Nieves et al.)
+- (*IJAIT'14*) **Agent-based reasoning in medical planning and diagnosis combining multiple strategies** (Nieves et al.)
   [[📝 Paper](https://doi.org/10.1142/S0218213014400041)]
 
-- (*IJAIT'14_??*) **Towards a simulator of integrated long-term care systems for elderly people** (Grimaldo et al.)
+- (*IJAIT'14*) **Towards a simulator of integrated long-term care systems for elderly people** (Grimaldo et al.)
   [[📝 Paper](https://doi.org/10.1142/S0218213014400053)]
 
-- (*J. Med. Syst.'14_??*) **Designing an architectural style for dynamic medical cross-organizational workflow management system: an approach based on agents and web services** (Bouzguenda & Turki)
+- (*J. Med. Syst.'14*) **Designing an architectural style for dynamic medical cross-organizational workflow management system: an approach based on agents and web services** (Bouzguenda & Turki)
   [[📝 Paper](https://doi.org/10.1007/s10916-014-0032-2)]
 
-- (*ISCON'14_??*) **Architectural design of a multi agent enterprise knowledge management system (MAEKMS) for e-health** (Jain)
+- (*ISCON'14*) **Architectural design of a multi agent enterprise knowledge management system (MAEKMS) for e-health** (Jain)
   [[📝 Paper](https://doi.org/10.1109/iciscon.2014.6965225)]
 
-- (*Int. J. Environ. Res. Public Health'14_??*) **The next generation of interoperability agents in healthcare** (Cardoso et al.)
+- (*Int. J. Environ. Res. Public Health'14*) **The next generation of interoperability agents in healthcare** (Cardoso et al.)
   [[📝 Paper](https://doi.org/10.3390/ijerph110505349)]
 
-- (*Procedia Technol.'14_??*) **Healthcare interoperability through intelligent agent technology** (Cardoso et al.)
+- (*Procedia Technol.'14*) **Healthcare interoperability through intelligent agent technology** (Cardoso et al.)
   [[📝 Paper](https://doi.org/10.1016/j.protcy.2014.10.150)]
 
-- (*PAAMS'14_??*) **Assessment of agent architectures for telehealth** (Jørgensen et al.)
+- (*PAAMS'14*) **Assessment of agent architectures for telehealth** (Jørgensen et al.)
   [[📝 Paper](https://doi.org/10.1007/978-3-319-07767-3_8)]
 
-- (*IJMLC'14_??*) **Multi-agent decision-making support model for the management of pre-hospital emergency services** (Chennaoui & Paquet)
+- (*IJMLC'14*) **Multi-agent decision-making support model for the management of pre-hospital emergency services** (Chennaoui & Paquet)
   [[📝 Paper](https://doi.org/10.7763/ijmlc.2014.v4.412)]
 
-- (*Stud. Comput. Intell.'14_??*) **Negotiation-based patient scheduling in hospitals — reengineering message-based interactions with services** (Braubach et al.)
+- (*Stud. Comput. Intell.'14*) **Negotiation-based patient scheduling in hospitals — reengineering message-based interactions with services** (Braubach et al.)
   [[📝 Paper](https://doi.org/10.1007/978-3-319-00467-9_10)]
 
-- (*Int. J. Simul. Process Model.'14_??*) **Evaluating policies using agent-based simulations: investigating policies for continuity of care** (Ramsey)
+- (*Int. J. Simul. Process Model.'14*) **Evaluating policies using agent-based simulations: investigating policies for continuity of care** (Ramsey)
   [[📝 Paper](https://doi.org/10.1504/ijspm.2014.066364)]
 
-- (*IJAIT'14_??*) **Secure P2P cross-community health record exchange in IHE compatible systems** (Urovi et al.)
+- (*IJAIT'14*) **Secure P2P cross-community health record exchange in IHE compatible systems** (Urovi et al.)
   [[📝 Paper](https://doi.org/10.1142/S0218213014400065)]
 
-- (*IJAIT'14_??*) **Editorial: special issue on new perspectives on the use of agents in health care** (Moreno)
+- (*IJAIT'14*) **Editorial: special issue on new perspectives on the use of agents in health care** (Moreno)
   [[📝 Paper](https://doi.org/10.1142/S0218213014020011)]
 
-- (*Int. J. Environ. Res. Public Health'14_??*) **A mobile multi-agent information system for ubiquitous fetal monitoring** (Su & Chu)
+- (*Int. J. Environ. Res. Public Health'14*) **A mobile multi-agent information system for ubiquitous fetal monitoring** (Su & Chu)
   [[📝 Paper](https://doi.org/10.3390/ijerph110100600)]
 
-- (*IJAIT'14_??*) **A push-based agent communication model empowering assistive technologies** (Järvinen et al.)
+- (*IJAIT'14*) **A push-based agent communication model empowering assistive technologies** (Järvinen et al.)
   [[📝 Paper](https://doi.org/10.1142/S021821301440003x)]
 
 #### 2013
 
-- (*JAISE'13_??*) **COMMODITY12: a smart e-health environment for diabetes management** (Kafalı et al.)
+- (*JAISE'13*) **COMMODITY12: a smart e-health environment for diabetes management** (Kafalı et al.)
   [[📝 Paper](https://doi.org/10.3233/ais-130220)]
 
-- (*Comput. Biol. Med.'13_??*) **The self-aware diabetic patient software agent model** (Wang & Paranjape)
+- (*Comput. Biol. Med.'13*) **The self-aware diabetic patient software agent model** (Wang & Paranjape)
   [[📝 Paper](https://doi.org/10.1016/j.compbiomed.2013.09.007)]
 
-- (*Inf. Sci.'13_??*) **Integrating hardware agents into an enhanced multi-agent architecture for ambient intelligence systems** (Tapia et al.)
+- (*Inf. Sci.'13*) **Integrating hardware agents into an enhanced multi-agent architecture for ambient intelligence systems** (Tapia et al.)
   [[📝 Paper](https://doi.org/10.1016/j.ins.2011.05.002)]
 
-- (*Procedia Comput. Sci.'13_??*) **Agent based health monitoring of elderly people in indoor environments using wireless sensor networks** (Vaidehi et al.)
+- (*Procedia Comput. Sci.'13*) **Agent based health monitoring of elderly people in indoor environments using wireless sensor networks** (Vaidehi et al.)
   [[📝 Paper](https://doi.org/10.1016/j.procs.2013.06.014)]
 
-- (*ACM Trans. Manag. Inf. Syst.'13_??*) **I can help you change! An empathic virtual agent delivers behavior change health interventions** (Lisetti et al.)
+- (*ACM Trans. Manag. Inf. Syst.'13*) **I can help you change! An empathic virtual agent delivers behavior change health interventions** (Lisetti et al.)
   [[📝 Paper](https://doi.org/10.1145/2544103)]
 
-- (*Procedia Comput. Sci.'13_??*) **Using an agent-based simulation for predicting the effects of patients derivation policies in emergency departments** (Taboada et al.)
+- (*Procedia Comput. Sci.'13*) **Using an agent-based simulation for predicting the effects of patients derivation policies in emergency departments** (Taboada et al.)
   [[📝 Paper](https://doi.org/10.1016/j.procs.2013.05.228)]
 
-- (*Comput. Biol. Med.'13_??*) **Formal specification and analysis of intelligent agents for model-based medicine usage management** (Hoogendoorn et al.)
+- (*Comput. Biol. Med.'13*) **Formal specification and analysis of intelligent agents for model-based medicine usage management** (Hoogendoorn et al.)
   [[📝 Paper](https://doi.org/10.1016/j.compbiomed.2013.01.021)]
 
-- (*Inf. Sci.'13_??*) **Context-aware multi-agent planning in intelligent environments** (Pajares Ferrando & Onaindia)
+- (*Inf. Sci.'13*) **Context-aware multi-agent planning in intelligent environments** (Pajares Ferrando & Onaindia)
   [[📝 Paper](https://doi.org/10.1016/j.ins.2012.11.021)]
 
-- (*Pers. Ubiquitous Comput.'13_??*) **Self-configuring agents for ambient assisted living applications** (Ayala et al.) — *journal vol. 17(6), 2013; Crossref online date 2012*
+- (*Pers. Ubiquitous Comput.'13*) **Self-configuring agents for ambient assisted living applications** (Ayala et al.) — *journal vol. 17(6), 2013; Crossref online date 2012*
   [[📝 Paper](https://doi.org/10.1007/s00779-012-0555-9)]
 
-- (*Int. J. Intell. Syst. Technol. Appl.'13_??*) **Agent-based communication systems for elders using a reminiscence therapy** (Fuketa et al.)
+- (*Int. J. Intell. Syst. Technol. Appl.'13*) **Agent-based communication systems for elders using a reminiscence therapy** (Fuketa et al.)
   [[📝 Paper](https://doi.org/10.1504/ijista.2013.056533)]
 
-- (*J. Med. Syst.'13_??*) **Secure mobile agent for telemedicine based on P2P networks** (Hsu & Pan)
+- (*J. Med. Syst.'13*) **Secure mobile agent for telemedicine based on P2P networks** (Hsu & Pan)
   [[📝 Paper](https://doi.org/10.1007/s10916-013-9947-2)]
 
-- (*IJSEIA'13_??*) **An efficient multi-agent system for e-health functionalities** (Moghaddam et al.) — *International Journal of Software Engineering and Its Applications* **7**(3); no Crossref DOI located.
+- (*IJSEIA'13*) **An efficient multi-agent system for e-health functionalities** (Moghaddam et al.) — *International Journal of Software Engineering and Its Applications* **7**(3); no Crossref DOI located.
 
 #### 2012
 
-- (*J. Med. Syst.'12_??*) **A mobile agent approach for secure integrated medical information systems** (Liu et al.)
+- (*J. Med. Syst.'12*) **A mobile agent approach for secure integrated medical information systems** (Liu et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-011-9749-3)]
 
-- (*J. Med. Syst.'12_??*) **Implementing an integrative multi-agent clinical decision support system with open source software** (Sayyad Shirabad et al.)
+- (*J. Med. Syst.'12*) **Implementing an integrative multi-agent clinical decision support system with open source software** (Sayyad Shirabad et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-010-9452-9)]
 
-- (*J. Med. Syst.'12_??*) **A study on agent-based secure scheme for electronic medical record system** (Chen et al.)
+- (*J. Med. Syst.'12*) **A study on agent-based secure scheme for electronic medical record system** (Chen et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-010-9595-8)]
 
-- (*J. Med. Syst.'12_??*) **Secure communication of medical information using mobile agents** (Nikooghadam & Zakerolhosseini)
+- (*J. Med. Syst.'12*) **Secure communication of medical information using mobile agents** (Nikooghadam & Zakerolhosseini)
   [[📝 Paper](https://doi.org/10.1007/s10916-012-9857-8)]
 
-- (*J. Med. Syst.'12_??*) **Mobile agent application and integration in electronic anamnesis system** (Liu et al.)
+- (*J. Med. Syst.'12*) **Mobile agent application and integration in electronic anamnesis system** (Liu et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-010-9563-3)]
 
-- (*J. Med. Syst.'12_??*) **Deployment of secure mobile agents for medical information systems** (Chen et al.)
+- (*J. Med. Syst.'12*) **Deployment of secure mobile agents for medical information systems** (Chen et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-011-9716-z)]
 
-- (*Artif. Intell. Med.'12_??*) **Inconsistency as a diagnostic tool in a society of intelligent agents** (McShane et al.)
+- (*Artif. Intell. Med.'12*) **Inconsistency as a diagnostic tool in a society of intelligent agents** (McShane et al.)
   [[📝 Paper](https://doi.org/10.1016/j.artmed.2012.04.005)]
 
-- (*IEEE Trans. Inf. Technol. Biomed.'12_??*) **Optimizing medical data quality based on multiagent web service framework** (Wu et al.)
+- (*IEEE Trans. Inf. Technol. Biomed.'12*) **Optimizing medical data quality based on multiagent web service framework** (Wu et al.)
   [[📝 Paper](https://doi.org/10.1109/titb.2012.2195498)]
 
-- (*Adv. Sci. Lett.'12_??*) **Construction of real-time weight control intelligent recommendation system using multi-agent mechanism** (Lo)
+- (*Adv. Sci. Lett.'12*) **Construction of real-time weight control intelligent recommendation system using multi-agent mechanism** (Lo)
   [[📝 Paper](https://doi.org/10.1166/asl.2012.2515)]
 
-- (*Expert Syst. Appl.'12_??*) **Multi-agent ontology-based Web 2.0 platform for medical rehabilitation** (Su & Peng)
+- (*Expert Syst. Appl.'12*) **Multi-agent ontology-based Web 2.0 platform for medical rehabilitation** (Su & Peng)
   [[📝 Paper](https://doi.org/10.1016/j.eswa.2011.09.089)]
 
-- (*CISTI'12_??*) **Improving expressiveness of agents using openEHR to retrieve multi-institutional health data: feeding local repositories through HL7 based providers** (Silva-Ferreira et al.) — *short paper; full text via IEEE Xplore CISTI 2012 proceedings*
+- (*CISTI'12*) **Improving expressiveness of agents using openEHR to retrieve multi-institutional health data: feeding local repositories through HL7 based providers** (Silva-Ferreira et al.) — *short paper; full text via IEEE Xplore CISTI 2012 proceedings*
 
 #### 2011
 
-- (*IEEE Trans. Knowl. Data Eng.'11_??*) **Integration of the HL7 standard in a multiagent system to support personalized access to e-health services** (De Meo et al.)
+- (*IEEE Trans. Knowl. Data Eng.'11*) **Integration of the HL7 standard in a multiagent system to support personalized access to e-health services** (De Meo et al.)
   [[📝 Paper](https://doi.org/10.1109/tkde.2010.174)]
 
-- (*Procedia Comput. Sci.'11_??*) **An agent-based decision support system for hospitals emergency departments** (Taboada et al.)
+- (*Procedia Comput. Sci.'11*) **An agent-based decision support system for hospitals emergency departments** (Taboada et al.)
   [[📝 Paper](https://doi.org/10.1016/j.procs.2011.04.203)]
 
-- (*SUComS'11_??*) **Agent based approach in accessing distributed health care services** (Bhat et al.)
+- (*SUComS'11*) **Agent based approach in accessing distributed health care services** (Bhat et al.)
   [[📝 Paper](https://doi.org/10.1007/978-3-642-23948-9_24)]
 
-- (*EIDWT'11_??*) **Designing and implementing intelligent agents for e-health** (Domnori et al.)
+- (*EIDWT'11*) **Designing and implementing intelligent agents for e-health** (Domnori et al.)
   [[📝 Paper](https://doi.org/10.1109/eidwt.2011.19)]
 
-- (*J. Med. Syst.'11_??*) **Distributed agent based interoperable virtual EMR system for healthcare system integration** (Yang & Miao)
+- (*J. Med. Syst.'11*) **Distributed agent based interoperable virtual EMR system for healthcare system integration** (Yang & Miao)
   [[📝 Paper](https://doi.org/10.1007/s10916-009-9367-5)]
 
-- (*Appl. Soft Comput.'11_??*) **JADE implemented mobile multi-agent based, distributed information platform for pervasive health care monitoring** (Su & Wu)
+- (*Appl. Soft Comput.'11*) **JADE implemented mobile multi-agent based, distributed information platform for pervasive health care monitoring** (Su & Wu)
   [[📝 Paper](https://doi.org/10.1016/j.asoc.2009.11.022)]
 
-- (*Int. J. Eng. Bus. Manag.'11_??*) **Building distributed E-healthcare for elderly using RFID and multi-agent** (Su & Shih)
+- (*Int. J. Eng. Bus. Manag.'11*) **Building distributed E-healthcare for elderly using RFID and multi-agent** (Su & Shih)
   [[📝 Paper](https://doi.org/10.5772/45677)]
 
 #### 2010
 
-- (*Int. J. E-Health Med. Commun.'10_??*) **Developing smart emergency applications with multi-agent systems** (Bergenti & Poggi)
+- (*Int. J. E-Health Med. Commun.'10*) **Developing smart emergency applications with multi-agent systems** (Bergenti & Poggi)
   [[📝 Paper](https://doi.org/10.4018/jehmc.2010100101)]
 
-- (*J. Ambient Intell. Humaniz. Comput.'10_??*) **Ontology-based multi-agents for intelligent healthcare applications** (Wang et al.)
+- (*J. Ambient Intell. Humaniz. Comput.'10*) **Ontology-based multi-agents for intelligent healthcare applications** (Wang et al.)
   [[📝 Paper](https://doi.org/10.1007/s12652-010-0011-5)]
 
-- (*IEEE Trans. Inf. Technol. Biomed.'10_??*) **A distributed, collaborative intelligent agent system approach for proactive postmarketing drug safety surveillance** (Ji et al.)
+- (*IEEE Trans. Inf. Technol. Biomed.'10*) **A distributed, collaborative intelligent agent system approach for proactive postmarketing drug safety surveillance** (Ji et al.)
   [[📝 Paper](https://doi.org/10.1109/titb.2009.2037007)]
 
-- (*IEEE Intell. Syst.'10_??*) **An artificial urban healthcare system and applications** (Xuyan & Lefei)
+- (*IEEE Intell. Syst.'10*) **An artificial urban healthcare system and applications** (Xuyan & Lefei)
   [[📝 Paper](https://doi.org/10.1109/mis.2010.76)]
 
-- (*Elektronika ir Elektrotechnika'10_??*) **Multi-agent-based human computer interaction of E-health care system for people with movement disabilities** (Bielskis et al.)
+- (*Elektronika ir Elektrotechnika'10*) **Multi-agent-based human computer interaction of E-health care system for people with movement disabilities** (Bielskis et al.)
   [[📝 Paper](https://eejournal.ktu.lt/index.php/elt/article/view/9280)]
 
-- (*JAISE'10_??*) **An integrative ambient agent model for unipolar depression relapse prevention** (Aziz et al.)
+- (*JAISE'10*) **An integrative ambient agent model for unipolar depression relapse prevention** (Aziz et al.)
   [[📝 Paper](https://doi.org/10.3233/ais-2010-0054)]
 
-- (*J. Univers. Comput. Sci.'10_??*) **An agent-based architecture for developing activity-aware systems for assisting elderly** (García-Vázquez et al.)
+- (*J. Univers. Comput. Sci.'10*) **An agent-based architecture for developing activity-aware systems for assisting elderly** (García-Vázquez et al.)
   [[📝 Paper](http://www.jucs.org/jucs_16_12/an_agent_based_architecture.html)]
 
-- (*IGI Global book chapter'10_??*) **A multi-agent simulation of kidney function for medical education** (Wang et al.) — *in* Multi-Agent Systems for Healthcare Simulation and Modeling
+- (*IGI Global book chapter'10*) **A multi-agent simulation of kidney function for medical education** (Wang et al.) — *in* Multi-Agent Systems for Healthcare Simulation and Modeling
   [[📝 Paper](https://doi.org/10.4018/978-1-60566-772-0.ch010)]
 
-- (*IGI Global book chapter'10_??*) **Operating room simulation and agent-based optimization** (Peng et al.) — *in* Multi-Agent Systems for Healthcare Simulation and Modeling
+- (*IGI Global book chapter'10*) **Operating room simulation and agent-based optimization** (Peng et al.) — *in* Multi-Agent Systems for Healthcare Simulation and Modeling
   [[📝 Paper](https://doi.org/10.4018/978-1-60566-772-0.ch005)]
 
-- (*IEEE Trans. Med. Imaging'09_??*) **User-agent cooperation in multiagent IVUS image segmentation** (Bovenkamp et al.; journal 2009, online 2010)
+- (*IEEE Trans. Med. Imaging'09*) **User-agent cooperation in multiagent IVUS image segmentation** (Bovenkamp et al.; journal 2009, online 2010)
   [[📝 Paper](https://doi.org/10.1109/tmi.2008.927351)]
 
 #### 2009
 
-- (*Int. J. Telemed. Appl.'09_??*) **Enhancing E-health information systems with agent technology** (Nguyen et al.)
+- (*Int. J. Telemed. Appl.'09*) **Enhancing E-health information systems with agent technology** (Nguyen et al.)
   [[📝 Paper](https://doi.org/10.1155/2009/279091)]
 
-- (*Int. J. Comput. Integr. Manuf.'09_??*) **Agent-services and mobile agents for an integrated HCIS** (Bouchoul & Mostefai)
+- (*Int. J. Comput. Integr. Manuf.'09*) **Agent-services and mobile agents for an integrated HCIS** (Bouchoul & Mostefai)
   [[📝 Paper](https://doi.org/10.1080/09511920802537979)]
 
-- (*FUZZ-IEEE'09_??*) **Intelligent ontological multi-agent for healthy diet planning** (Wang et al.)
+- (*FUZZ-IEEE'09*) **Intelligent ontological multi-agent for healthy diet planning** (Wang et al.)
   [[📝 Paper](https://doi.org/10.1109/fuzzy.2009.5277049)]
 
-- (*Appl. Intell.'09_??*) **HealthAgents: distributed multi-agent brain tumor diagnosis and prognosis** (González-Vélez et al.) — *Crossref online year 2007; print commonly cited as 2009*
+- (*Appl. Intell.'09*) **HealthAgents: distributed multi-agent brain tumor diagnosis and prognosis** (González-Vélez et al.) — *Crossref online year 2007; print commonly cited as 2009*
   [[📝 Paper](https://doi.org/10.1007/s10489-007-0085-8)]
 
-- (*Expert Syst. Appl.'09_??*) **Modeling and implementing an agent-based environmental health impact decision support system** (Sokolova & Fernández-Caballero)
+- (*Expert Syst. Appl.'09*) **Modeling and implementing an agent-based environmental health impact decision support system** (Sokolova & Fernández-Caballero)
   [[📝 Paper](https://doi.org/10.1016/j.eswa.2008.01.041)]
 
 #### Dissertation (2014; in-scope)
 
-- (*UAB PhD Thesis'14_??*) **Agent based virtual electronic patient record: from intra to inter-institution data integration** (Vieira-Marques) — *institutional repository landing pages vary; search by title in [TDX](https://www.tdx.cat/) or author’s current affiliation.*
+- (*UAB PhD Thesis'14*) **Agent based virtual electronic patient record: from intra to inter-institution data integration** (Vieira-Marques) — *institutional repository landing pages vary; search by title in [TDX](https://www.tdx.cat/) or author’s current affiliation.*
 
 ### Agent-based healthcare systems (2015-2022)
 
@@ -964,69 +964,69 @@
 
 #### 2021
 
-- (*J. Med. Syst.'21_??*) **Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors** (Manzo et al.)
+- (*J. Med. Syst.'21*) **Cohort and Trajectory Analysis in Multi-Agent Support Systems for Cancer Survivors** (Manzo et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-021-01770-3)]
 
-- (*IEEE Access'21_??*) **A Multi-Agent Approach for Personalized Hypertension Risk Prediction** (Abrar et al.)
+- (*IEEE Access'21*) **A Multi-Agent Approach for Personalized Hypertension Risk Prediction** (Abrar et al.)
   [[📝 Paper](https://doi.org/10.1109/access.2021.3074791)]
 
 #### 2020
 
-- (*J. Med. Syst.'20_??*) **On the Integration of Agents and Digital Twins in Healthcare** (Croatti et al.)
+- (*J. Med. Syst.'20*) **On the Integration of Agents and Digital Twins in Healthcare** (Croatti et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-020-01623-5)]
 
-- (*J. Med. Syst.'20_??*) **Agent-oriented Decision Support System for Business Processes Management with Genetic Algorithm Optimization: an Application in Healthcare** (Sulis et al.)
+- (*J. Med. Syst.'20*) **Agent-oriented Decision Support System for Business Processes Management with Genetic Algorithm Optimization: an Application in Healthcare** (Sulis et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-020-01608-4)]
 
 #### 2019
 
-- (*Simul. Model. Pract. Theory'19_??*) **Agent-based dynamic optimization for managing the workflow of the patient's pathway** (Ajmi et al.)
+- (*Simul. Model. Pract. Theory'19*) **Agent-based dynamic optimization for managing the workflow of the patient's pathway** (Ajmi et al.)
   [[📝 Paper](https://doi.org/10.1016/j.simpat.2019.101935)]
 
-- (*Artif. Intell. Med.'19_??*) **Personalized conciliation of clinical guidelines for comorbid patients through multi-agent planning** (Fdez-Olivares et al.)
+- (*Artif. Intell. Med.'19*) **Personalized conciliation of clinical guidelines for comorbid patients through multi-agent planning** (Fdez-Olivares et al.)
   [[📝 Paper](https://doi.org/10.1016/j.artmed.2018.11.003)]
 
 #### 2018
 
-- (*Telemat. Inform.'18_??*) **Developing a multi-agent platform supporting patient hospital stays following a socio-technical approach: Management and governance benefits** (Wautelet et al.)
+- (*Telemat. Inform.'18*) **Developing a multi-agent platform supporting patient hospital stays following a socio-technical approach: Management and governance benefits** (Wautelet et al.)
   [[📝 Paper](https://doi.org/10.1016/j.tele.2017.12.013)]
 
 #### 2017
 
-- (*J. Med. Syst.'17_??*) **A Therapy System for Post-Traumatic Stress Disorder Using a Virtual Agent and Virtual Storytelling to Reconstruct Traumatic Memories** (Tielman et al.)
+- (*J. Med. Syst.'17*) **A Therapy System for Post-Traumatic Stress Disorder Using a Virtual Agent and Virtual Storytelling to Reconstruct Traumatic Memories** (Tielman et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-017-0771-y)]
 
-- (*Simul. Model. Pract. Theory'17_??*) **A multi-agent system based on reactive decision rules for solving the caregiver routing problem in home health care** (Marcon et al.)
+- (*Simul. Model. Pract. Theory'17*) **A multi-agent system based on reactive decision rules for solving the caregiver routing problem in home health care** (Marcon et al.)
   [[📝 Paper](https://doi.org/10.1016/j.simpat.2017.03.006)]
 
 #### 2016
 
-- (*J. Biomed. Inform.'16_??*) **Agents endowed with uncertainty management behaviors to solve a multiskill healthcare task scheduling** (Ben Othman et al.)
+- (*J. Biomed. Inform.'16*) **Agents endowed with uncertainty management behaviors to solve a multiskill healthcare task scheduling** (Ben Othman et al.)
   [[📝 Paper](https://doi.org/10.1016/j.jbi.2016.08.011)]
 
-- (*Decis. Support Syst.'16_??*) **A multi-agent system to support evidence based medicine and clinical decision making via data sharing and data privacy** (Wimmer et al.)
+- (*Decis. Support Syst.'16*) **A multi-agent system to support evidence based medicine and clinical decision making via data sharing and data privacy** (Wimmer et al.)
   [[📝 Paper](https://doi.org/10.1016/j.dss.2016.05.008)]
 
-- (*J. Syst. Softw.'16_??*) **A model-driven approach for constructing ambient assisted-living multi-agent systems customized for Parkinson patients** (García-Magariño & Palacios-Navarro)
+- (*J. Syst. Softw.'16*) **A model-driven approach for constructing ambient assisted-living multi-agent systems customized for Parkinson patients** (García-Magariño & Palacios-Navarro)
   [[📝 Paper](https://doi.org/10.1016/j.jss.2015.09.014)]
 
 #### 2015
 
-- (*IEEE Intell. Syst.'15_??*) **Engineering ambient intelligence systems using agent technology** (Spanoudakis & Moraitis)
+- (*IEEE Intell. Syst.'15*) **Engineering ambient intelligence systems using agent technology** (Spanoudakis & Moraitis)
   [[📝 Paper](https://doi.org/10.1109/mis.2015.3)]
 
-- (*Inf. Syst. Front.'15_??*) **OptiPres: a distributed mobile agent decision support system for optimal patient drug prescription** (Miller & Mansingh)
+- (*Inf. Syst. Front.'15*) **OptiPres: a distributed mobile agent decision support system for optimal patient drug prescription** (Miller & Mansingh)
   [[📝 Paper](https://doi.org/10.1007/s10796-015-9595-9)]
 
-- (*J. Med. Syst.'15_??*) **Using Semantic Components to Represent Dynamics of an Interdisciplinary Healthcare Team in a Multi-Agent Decision Support System** (Wilk et al.)
+- (*J. Med. Syst.'15*) **Using Semantic Components to Represent Dynamics of an Interdisciplinary Healthcare Team in a Multi-Agent Decision Support System** (Wilk et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-015-0375-3)]
 
-- (*J. Med. Syst.'15_??*) **Development of a Multi-Agent m-Health Application Based on Various Protocols for Chronic Disease Self-Management** (Park et al.)
+- (*J. Med. Syst.'15*) **Development of a Multi-Agent m-Health Application Based on Various Protocols for Chronic Disease Self-Management** (Park et al.)
   [[📝 Paper](https://doi.org/10.1007/s10916-015-0401-5)]
 
 #### 2008
 
-- (*Birkhäuser WSST book ch.'08_??*) **SAPHIRE: A Multi-Agent System for Remote Healthcare Monitoring through Computerized Clinical Guidelines** (Laleci et al.) — *chapter in Annicchiarico, Cortés & Urdiales (eds.), Agent Technology and e-Health*
+- (*Birkhäuser WSST book ch.'08*) **SAPHIRE: A Multi-Agent System for Remote Healthcare Monitoring through Computerized Clinical Guidelines** (Laleci et al.) — *chapter in Annicchiarico, Cortés & Urdiales (eds.), Agent Technology and e-Health*
   [[📝 Paper](https://doi.org/10.1007/978-3-7643-8547-7_3)]
 
 ---
@@ -1119,7 +1119,7 @@
 - (*ACL'26_04*) **Dialectic-Med: Mitigating Diagnostic Hallucinations via Counterfactual Adversarial Multi-Agent Debate**
   [[📝 Paper](https://arxiv.org/abs/2604.11258)]
 
-- (*Health Inf Sci Syst'26_??*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
+- (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
   [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
 
 - (*arXiv'26_04*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
@@ -1131,13 +1131,13 @@
 - (*arXiv'26_03*) **Med-Evo: Test-time Self-evolution for Medical Multimodal Large Language Models**
   [[📝 Paper](https://arxiv.org/abs/2603.07443)]
 
-- (*npj Digital Medicine'26_??*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
+- (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
 
 - (*arXiv'25_10*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
   [[📝 Paper](https://arxiv.org/abs/2510.24654)]
 
-- (*IEEE ICASSP'25_??*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
+- (*IEEE ICASSP'25*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
   [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
 
 - (*arXiv'25_09*) **MACD: Multi-Agent Clinical Diagnosis with Self-Learned Knowledge for LLM**
@@ -1225,7 +1225,7 @@
 - (*arXiv'26_04*) **EMSDialog: Synthetic Multi-person Emergency Medical Service Dialogue Generation from Electronic Patient Care Reports via Multi-LLM Agents**
   [[📝 Paper](https://arxiv.org/abs/2604.07549)]
 
-- (*CEEM'26_??*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
+- (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
   [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
 - (*arXiv'25_10*) **Evolving Diagnostic Agents in a Virtual Clinical Environment**
@@ -1242,7 +1242,7 @@
 
 ### Biomedical and Healthcare Research
 
-- (*AACR Annual Meeting'26_??*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
+- (*AACR Annual Meeting'26*) **Agentic AI as the Cancer Researcher: Autonomous Discovery in Oncology**
   [[🌐 Program](https://www.aacr.org/meeting/aacr-annual-meeting-2026/program/)]
 
 - (*arXiv'25_06*) **Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data**
@@ -1260,7 +1260,7 @@
 - (*arXiv'26_03*) **Self-evolving AI agents for protein discovery and directed evolution**
   [[📝 Paper](https://arxiv.org/abs/2603.27303)] [[💻 Code](https://github.com/ai4protein/VenusFactory2)]
 
-- (*Nature Biomedical Engineering'26_??*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
+- (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*arXiv'26_03*) **Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**
@@ -1314,10 +1314,10 @@
 - (*arXiv'26_04*) **Constraint-Aware Corrective Memory for Language-Based Drug Discovery Agents (CACM)**
   [[📝 Paper](https://arxiv.org/abs/2604.09308)]
 
-- (*Advanced Science'25_??*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
+- (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
   [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
 
-- (*IJISAE'25_??*) **Self-Evolving LLM Ecosystems for Precision Medicine**
+- (*IJISAE'25*) **Self-Evolving LLM Ecosystems for Precision Medicine**
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
 
 ### Clinical Decision-Making and Trial Optimization
@@ -1325,7 +1325,7 @@
 - (*arXiv'26_03*) **Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding**
   [[📝 Paper](https://arxiv.org/abs/2603.29709)]
 
-- (*Cambridge Open Engage'26_??*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
 - (*arXiv'26_04*) **Agentic AI for Clinical Urgency Mapping and Queue Optimization in High-Volume Outpatient Departments: A Simulation-Based Evaluation**
@@ -1337,7 +1337,7 @@
 - (*ACM-BCB'24_04*) **ClinicalAgent: Clinical Trial Multi-Agent System with LLM-based Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2404.14777)] [[💻 Code](https://github.com/LeoYML/clinical-agent)]
 
-- (*npj Digital Medicine'26_??*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
+- (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
 
 - (*arXiv'26_04*) **Development, Evaluation, and Deployment of a Multi-Agent System for Thoracic Tumor Board**
@@ -1369,7 +1369,7 @@
 - (*arXiv'26_04*) **PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor**
   [[📝 Paper](https://arxiv.org/abs/2604.00931)]
 
-- (*NeurIPS'25_?? Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
+- (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]
 
 - (*arXiv'25_06*) **CounselBench: A Large-Scale Expert Evaluation and Adversarial Benchmarking of Large Language Models in Mental Health Question Answering**
@@ -1389,7 +1389,7 @@
 
 ### Ethics, Safety, and Limits
 
-- (*Cambridge Open Engage'26_??*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+- (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
   [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
 
 - (*arXiv'26_04*) **CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance**
@@ -1457,13 +1457,13 @@
 - (*arXiv'26_04*) **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization**
   [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
 
-- (*arXiv'26_??*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
+- (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
   [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
 
 - (*arXiv'25_09*) **Evolving-RL: End-to-End Optimization of Experience-Driven Self-Evolving Capability**
   [[📝 Paper](https://arxiv.org/abs/2509.15194)] [[💻 Code](https://github.com/YujunZhou/EVOL-RL)]
 
-- (*GitHub'26_??*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
+- (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
   [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
 
 - (*arXiv'26_03*) **SkillEvolver: Dynamic Skill Lifecycle Management for Agentic RL**
@@ -1493,13 +1493,13 @@
 - (*bioRxiv'26_02*) **PantheonOS: An Evolvable Multi-Agent Framework for Automatic Genomics Discovery**
   [[📝 Paper](https://www.biorxiv.org/content/10.64898/2026.02.26.707870v1)] [[🌐 Project](https://pantheonos.stanford.edu)] [[💻 Code](https://github.com/aristoteleo)]
 
-- (*Nature Biomedical Engineering'26_??*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
+- (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
 - (*arXiv'26_03*) **GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2603.22096)]
 
-- (*GitHub'26_??*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
+- (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
   [[💻 Code](https://github.com/EverMind-AI/EverOS)]
 
 - (*arXiv'26_03*) **MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution**
@@ -1547,10 +1547,10 @@
 - (*ICLR'26_09*) **KnowGuard: Knowledge-Driven Abstention for Multi-Round Clinical Reasoning**
   [[📝 Paper](https://arxiv.org/abs/2509.24816)] [[🌐 ICLR](https://iclr.cc/virtual/2026/poster/10008150)] [[💻 Code](https://github.com/IcecreamArtist/KnowGuard)]
 
-- (*ICLR'26_?? Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
+- (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
   [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
 
-- (*EMNLP'25_?? Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
+- (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
   [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
 
 - (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
@@ -1607,11 +1607,12 @@ Suggested format:
 
 ```markdown
 - (*Venue'YY_MM*) **Paper Title** [[📝 Paper](link)] [[💻 Code](link)]
+- (*Venue'YY*) **Paper Title** [[📝 Paper](link)]
 ```
 
-Use two-digit `YY` (e.g. `26` for 2026) and two-digit month `MM` from the arXiv id when possible; use `??` if the month cannot be inferred.
+Use two-digit `YY` (e.g. `26` for 2026). Add `_MM` (month from arXiv id or preprint URL) only when it can be inferred; otherwise keep **`(*Venue'YY*)`** without `_MM`.
 
-Please try to keep the formatting consistent with the existing entries. Prefer an `arxiv.org/abs/YYMM.NNNNN` (or `pdf/`) link when available so entries sort correctly by month. After a batch of additions, run `python scripts/add_venue_month_tags.py` to normalize `(*Venue'YY_MM*)` tags (use `python scripts/add_venue_month_tags.py --refine` to replace `_??` when a month can be inferred from links), then `python scripts/sort_papers_readme.py --write-indexes` from the repo root to re-apply time order and refresh `indexes/`.
+Please try to keep the formatting consistent with the existing entries. Prefer an `arxiv.org/abs/YYMM.NNNNN` (or `pdf/`) link when available so entries sort correctly by month. After a batch of additions, run `python scripts/add_venue_month_tags.py` to normalize tags, then `python scripts/sort_papers_readme.py --write-indexes` from the repo root to re-apply time order and refresh `indexes/`.
 
 ### Curation scope (clinical agents vs. epidemic / biological ABM)
 

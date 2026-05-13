@@ -32,7 +32,7 @@ ARXIV_RE = re.compile(
     re.IGNORECASE,
 )
 YEAR_HEADING_RE = re.compile(r"^### (\d{4})\s*$")
-VENUE_TAIL_RE = re.compile(r"\(\*[^']*'(\d{2})(?:_(\d{2}|\?\?))?\*\)")
+VENUE_TAIL_RE = re.compile(r"\(\*[^']*'(\d{2})(?:_(\d{2}))?\*\)")
 BIORXIV_DATE_RE = re.compile(r"/10\.1101/(\d{4})\.(\d{2})\.(\d{2})")
 TITLE_RE = re.compile(r"\*\*(.+?)\*\*")
 VENUE_PREFIX_RE = re.compile(r"^-\s+\(\*([^']+)\*'")
