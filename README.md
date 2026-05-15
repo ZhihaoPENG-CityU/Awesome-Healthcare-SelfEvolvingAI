@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness</strong>
+  <strong>Awesome-Medical-VLM-Agent-Self-Evolution</strong>
 </h1>
 <!-- Advancements In Medical VLM Agentic Models: Self-Evolution, Harness Engineering, and Beyond -->
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-  <!-- <a href="https://github.com/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness/stargazers"><img src="https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness?style=social" alt="GitHub stars"></a> -->
+  <!-- <a href="https://github.com/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution/stargazers"><img src="https://img.shields.io/github/stars/ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution?style=social" alt="GitHub stars"></a> -->
   <a href="#-contributing"><img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions welcome"></a>
 </p>
 
@@ -45,7 +45,7 @@
 
 ## 📌 Contents
 
-- [Scope tags: Core vs. Related](#-related-but-not-core)
+- [Tags](#-tags)
 - [Self-Evolving AI Papers](#-self-evolving-ai-papers-2023-Now)
 - [Survey Papers](#-survey-papers)
 - [Classic agent-based health care (2002–2008)](#classic-agent-based-health-care-2002-2008)
@@ -58,9 +58,9 @@
 
 ---
 
-<a id="related-but-not-core"></a>
+<a id="tags"></a>
 
-## 🔗 Related but Not Core
+## 🏷️ Tags
 
 Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**. Tags appear in the **time-ordered paper list**, **Survey Papers**, **historical agent sections**, and **By Topic** (the same title keeps the same tag).
 
@@ -81,7 +81,7 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 > **Default order (time):** Within each `###` calendar year, entries are **newest first**, using the numeric order of the first `arxiv.org/abs/` or `arxiv.org/pdf/` id `YYMM.NNNNN` when present (e.g. `2605.*` before `2604.*` before `2603.*`). Entries with a bioRxiv/medRxiv `/10.1101/YYYY.MM.DD` path use that calendar date; bullets without any such id sort at the **end** of that year. Papers whose arXiv id implies another calendar year are grouped under the matching `###` heading. Venue tags use **`(*Venue'YY_MM*)`** when the month is known from links, otherwise the legacy **`(*Venue'YY*)`** form (no `_MM`).
 >
-> **Scope tags:** See [Related but Not Core](#-related-but-not-core) for `[Core]` / `[Related·A]`–`[Related·E]` definitions.
+> **Tags:** See [Tags](#-tags) for `[Core]` / `[Related·A]`–`[Related·E]` definitions.
 >
 > **Other sort orders:** Plain GitHub Markdown has **no** interactive sort controls. After bulk edits, run `python scripts/tag_readme_scope.py` to refresh `[Core]` / `[Related·X]` tags.
 
@@ -668,7 +668,7 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ## 📚 Survey Papers
 
-> Entries in this section are tagged **`[Related·D]`** by default (surveys & perspectives). See [scope tags](#-related-but-not-core).
+> Entries in this section are tagged **`[Related·D]`** by default (surveys & perspectives). See [Tags](#-tags) for definitions.
 
 - [Related·D] (*npj AI'26*) **AI agent in healthcare: applications, evaluations, and future directions**
   [[📝 Paper](https://www.nature.com/articles/s44387-026-00076-4)]
@@ -711,7 +711,7 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ### Classic agent-based health care (2002–2008)
 
-> Entries in historical sections use tag **`[Related·E]`**. See [scope tags](#-related-but-not-core).
+> Entries in historical sections use tag **`[Related·E]`**. See [Tags](#-tags).
 
 > Representative **software-agent / multi-agent** work targeting **clinical information systems, telecare, hospital workflows, guideline enactment, or surveillance**, with **first publication in 2002–2008** (aligned with the literature window in Isern & Sánchez & Moreno, *Int. J. Med. Inf.*, 2010).  
 > **Not listed here (typical reasons):** general agent theory or MAS textbooks without a medical deployment (#1, #6–7, #38–40, #50); AI-in-medicine position pieces or surveys **dated 2009** (#5); agent papers **dated 2009** (#24 HealthAgents journal article, #54 interoperability survey); non-agent-centric bioinformatics reviews (#17); classic **ICMAS 1998** hospital scheduling (#9); incomplete / venue-unclear lines in the source list (#16).
@@ -1065,7 +1065,7 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 > A complementary topic-wise view.
 > Some papers appear in multiple categories.
-> Each entry carries the same **`[Core]`** / **`[Related·X]`** tag as in the time-ordered list (see [scope tags](#-related-but-not-core)).
+> Each entry carries the same **`[Core]`** / **`[Related·X]`** tag as in the time-ordered list (see [Tags](#-tags)).
 
 ### Medical Diagnosis and Consultation
 
@@ -1616,11 +1616,11 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=ZhihaoPENG-CityU%2FAwesome-Medical-VLM-Agent-Self-Evolution&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution-and-Harness&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=ZhihaoPENG-CityU/Awesome-Medical-VLM-Agent-Self-Evolution&type=date&legend=top-left" />
  </picture>
 </a>
 
@@ -1644,7 +1644,7 @@ Suggested format:
 - [Related·B] (*Venue'YY*) **Paper Title** [[📝 Paper](link)]
 ```
 
-Use `[Core]` when the paper fits the primary list scope; otherwise choose `[Related·A]`–`[Related·E]` per [Related but Not Core](#-related-but-not-core).
+Use `[Core]` when the paper fits the primary list scope; otherwise choose `[Related·A]`–`[Related·E]` per [Tags](#-tags).
 
 Use two-digit `YY` (e.g. `26` for 2026). Add `_MM` (month from arXiv id or preprint URL) only when it can be inferred; otherwise keep **`(*Venue'YY*)`** without `_MM`.
 
