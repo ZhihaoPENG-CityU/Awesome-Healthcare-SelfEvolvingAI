@@ -91,6 +91,12 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Related·A] (*arXiv'26_05*) **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation**
   [[📝 Paper](https://arxiv.org/abs/2605.14968)]
 
+- [Related·A] (*arXiv'26_05*) **Holistic Evaluation and Failure Diagnosis of AI Agents**
+  [[📝 Paper](https://arxiv.org/abs/2605.14865)]
+
+- [Related·B] (*arXiv'26_05*) **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**
+  [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
+
 - [Related·A] (*arXiv'26_05*) **LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues**
   [[📝 Paper](https://arxiv.org/abs/2605.12493)]
 
@@ -117,12 +123,6 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 
 - [Related·D] (*arXiv'26_05*) **Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare**
   [[📝 Paper](https://arxiv.org/abs/2605.08445)]
-
-- [Related·A] (*arXiv'26_05*) **Holistic Evaluation and Failure Diagnosis of AI Agents**
-  [[📝 Paper](https://arxiv.org/abs/2605.14865)]
-
-- [Related·B] (*arXiv'26_05*) **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model**
-  [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
 
 - [Related·A] (*arXiv'26_05*) **MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**
   [[📝 Paper](https://arxiv.org/abs/2605.06623)] [[💻 Code](https://github.com/wangzx1219/MASPO)]
@@ -514,23 +514,8 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*CEEM'26*) **From Non-Agentic LLMs to Multi-Agent Systems in Emergency Medicine: A Scoping Review**
   [[📝 Paper](https://doi.org/10.15441/ceem.26.136)]
 
-- [Related·B] (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
-  [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
-
 - [Core] (*Expert Syst. Appl.'26*) **CARE: A clinical agentic reasoning engine to enhance real-World diagnostic accuracy via structured medical reasoning**
   [[📝 Paper](https://doi.org/10.1016/j.eswa.2026.131476)]
-
-- [Related·A] (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
-  [[💻 Code](https://github.com/EverMind-AI/EverOS)]
-
-- [Related·A] (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
-  [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
-
-- [Related·D] (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
-  [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
-
-- [Related·A] (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
-  [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
 
 - [Core] (*Nat. Health'26*) **A multi-agent framework combining large language models with medical flowcharts for self-triage**
   [[📝 Paper](https://www.nature.com/articles/s44360-026-00112-2)] [[💻 Code](https://github.com/digihealthucsd/Multi-agent-self-triage-system)]
@@ -541,11 +526,26 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Core] (*Nature Biomedical Engineering'26*) **BioMedAgent: A Self-Evolving LLM Multi-Agent Framework for Autonomous, Tool-Aware Biomedical Data Analyses**
   [[📝 Paper](https://www.nature.com/articles/s41551-026-01634-6)] [[🌐 Project](http://biomed.drai.cn)] [[💻 Code](https://github.com/BOBQWERA/BioMedAgent)]
 
+- [Related·A] (*GitHub'26*) **EverOS: Build, evaluate, and integrate long-term memory for self-evolving agents**
+  [[💻 Code](https://github.com/EverMind-AI/EverOS)]
+
+- [Related·A] (*GitHub'26*) **NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation**
+  [[💻 Code](https://github.com/OpenRaiser/NanoResearch)]
+
+- [Related·A] (*ICLR'26 Rejected*) **SkillEvo: An Experience Learning Framework with Reinforcement Learning for Skill Evolution**
+  [[📝 Paper](https://openreview.net/forum?id=S1cIE9pe3k)]
+
 - [Related·A] (*arXiv'26*) **MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs**
   [[🌐 arXiv](https://arxiv.org/search/?searchtype=all&query=MAGE%3A%20Multi-Agent%20Self-Evolution%20with%20Co-Evolutionary%20Knowledge%20Graphs&abstracts=show&order=-announced_date_first&size=25)]
 
+- [Related·B] (*Cambridge Open Engage'26*) **Artificial Epidemiology: How Self-Evolving Clinical AI Manufactures Disease Prevalence from Administrative Coding Artifacts**
+  [[📝 Paper](https://doi.org/10.33774/coe-2026-ssm1q)]
+
 - [Related·B] (*npj Digital Medicine'26*) **EvoMDT: A Self-Evolving Multi-Agent System for Structured Clinical Decision-Making in Multi-Cancer**
   [[📝 Paper](https://www.nature.com/articles/s41746-025-02304-8)] [[💻 Code](https://github.com/KesselZ/EvoMDT)]
+
+- [Related·D] (*Health Inf Sci Syst'26*) **Enhancing LLM-based medical decision-making by test-time knowledge acquisition**
+  [[📝 Paper](https://doi.org/10.1007/s13755-026-00449-8)]
 
 - [Core] (*bioRxiv'26_07*) **STELLA: Towards a Biomedical World Model with Self-Evolving Multimodal Agents**
   [[📝 Paper](https://www.biorxiv.org/content/10.1101/2025.07.01.662467v2)]
@@ -645,17 +645,20 @@ Entries in the following sections are tagged **`[Core]`** or **`[Related·X]`**.
 - [Related·A] (*arXiv'25_02*) **EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks**
   [[📝 Paper](https://arxiv.org/abs/2502.05907)] [[💻 Code](https://github.com/siyuyuan/evoagent)]
 
-- [Related·B] (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
-  [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
+- [Related·A] (*NeurIPS'25*) **SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning**
+  [[📝 Paper](https://arxiv.org/abs/2502.04780)] [[💻 Code](https://github.com/zou-group/sirius)]
 
 - [Related·A] (*EMNLP'25 Demo*) **EvoAgentX: An Automated Framework for Evolving Agentic Workflows**
   [[📝 Paper](https://aclanthology.org/2025.emnlp-demos.47/)] [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)]
 
-- [Related·B] (*IEEE ICASSP'25*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
-  [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
-
 - [Related·A] (*IJISAE'25*) **Self-Evolving LLM Ecosystems for Precision Medicine**
   [[📝 Paper](https://ijisae.org/index.php/IJISAE/article/view/7793)]
+
+- [Related·B] (*Advanced Science'25*) **Autonomous Self-Evolving Research on Biomedical Data: The DREAM Paradigm**
+  [[📝 Paper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202417066)]
+
+- [Related·B] (*IEEE ICASSP'25*) **SeM-Agents: A Self-Evolving Framework for Multi-Agent Medical Consultation Based on Large Language Models**
+  [[📝 Paper](https://ieeexplore.ieee.org/abstract/document/10889517)]
 
 - [Related·B] (*NeurIPS'25 Workshop*) **HealthAlign-Agents: Self-Play Reflective Prompting for Culturally Aligned Health Communication in Low-Resource Languages**
   [[📝 Paper](https://neurips.cc/virtual/2025/135933)]

@@ -34,9 +34,6 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** — *Unknown* · **2024**
   [[📝 Paper](https://arxiv.org/abs/2405.02957)]
 
-- **Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents** — *Unknown* · **2024**
-  [[📝 Paper](https://arxiv.org/abs/2405.02957)]
-
 - **Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2605.10365)]
 
@@ -64,11 +61,11 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Agentic Clinical Reasoning over Longitudinal Myeloma Records: A Retrospective Evaluation Against Expert Consensus** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.24473)]
 
-- **Agentic Clinical Reasoning over Longitudinal Myeloma Records: A Retrospective Evaluation Against Expert Consensus** — *Unknown* · **2026**
-  [[📝 Paper](https://arxiv.org/abs/2604.24473)]
-
 - **Agentic Large Language Models for Training-Free Neuro-Radiological Image Analysis** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.16729)]
+
+- **Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.14723)] [[💻 Code](https://github.com/FreedomIntelligence/SepsisAgent)]
 
 - **Agentomics-ML: Autonomous Machine Learning Experimentation Agent for Genomic and Transcriptomic Data** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2506.05542)] [[💻 Code](https://github.com/BioGeMT/Agentomics-ML)]
@@ -208,9 +205,6 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2505.19630)]
 
-- **DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue** — *Unknown* · **2025**
-  [[📝 Paper](https://arxiv.org/abs/2505.19630)]
-
 - **Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/pdf/2603.25821)]
 
@@ -298,6 +292,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.17091)] [[💻 Code](https://github.com/lsdefine/GenericAgent)]
 
+- **GraphFlow: An Architecture for Formally Verifiable Visual Workflows Enabling Reliable Agentic AI Automation** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.14968)]
+
 - **Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.08226)]
 
@@ -315,6 +312,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2508.02621)] [[💻 Code](https://github.com/yhzhu99/HealthFlow)]
+
+- **Holistic Evaluation and Failure Diagnosis of AI Agents** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.14865)]
 
 - **How Well Do Multimodal Models Reason on ECG Signals?** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.00312)]
@@ -366,6 +366,9 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 
 - **MAP: Evaluation and Multi-Agent Enhancement of Large Language Models for Inpatient Pathways** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2503.13205)]
+
+- **MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems** — *Unknown* · **2026**
+  [[📝 Paper](https://arxiv.org/abs/2605.06623)] [[💻 Code](https://github.com/wangzx1219/MASPO)]
 
 - **MAT-Cell: A Multi-Agent Tree-Structured Reasoning Framework for Batch-Level Single-Cell Annotation** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.06269)] [[💻 Code](https://github.com/jiangliu91/MAT-Cell-A-Multi-Agent-Tree-Structured-Reasoning-Framework-for-Batch-Level-Single-Cell-Annotation)]
@@ -531,8 +534,8 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
 - **Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making** — *Unknown* · **2025**
   [[📝 Paper](https://arxiv.org/abs/2505.21503)]
 
-- **Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making** — *Unknown* · **2025**
-  [[📝 Paper](https://arxiv.org/abs/2505.21503)]
+- **SiriuS: Self-improving Multi-agent Systems via Bootstrapped Reasoning** — *Unknown* · **2025**
+  [[📝 Paper](https://arxiv.org/abs/2502.04780)] [[💻 Code](https://github.com/zou-group/sirius)]
 
 - **Skill Retrieval Augmentation for Agentic AI** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2604.24594)] [[💻 Code](https://github.com/oneal2000/SR-Agents)]
@@ -550,7 +553,7 @@ Regenerate with: `python scripts/sort_papers_readme.py --write-indexes`
   [[📝 Paper](https://arxiv.org/abs/2604.03964)]
 
 - **SkillOS: Learning Skill Curation for Self-Evolving Agents** — *Unknown* · **2026**
-  [[📝 Paper](https://arxiv.org/abs/2605.06614)]
+  [[📝 Paper](https://arxiv.org/abs/2605.06614)] [[💻 Code](https://github.com/EvolvingAgentsLabs/skillos)]
 
 - **SkinGPT-X: A Self-Evolving Collaborative Multi-Agent System for Transparent and Trustworthy Dermatological Diagnosis** — *Unknown* · **2026**
   [[📝 Paper](https://arxiv.org/abs/2603.26122)]
